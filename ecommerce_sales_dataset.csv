@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,product,category,region,quantity,unit_price,discount,revenue,profit,payment_method,delivery_days,order_status
+ORD100001,2025-02-02,CUST1156,Desk Lamp,Furniture,East,1,40,0.1,36.0,9.22,UPI,10,Completed
+ORD100002,2025-10-10,CUST1205,Monitor,Electronics,East,3,210,0.1,567.0,116.53,UPI,2,Completed
+ORD100003,2025-08-27,CUST1078,Smartphone Case,Mobile,North,4,18,0.0,72.0,8.3,UPI,7,Shipped
+ORD100004,2025-06-10,CUST1061,Office Chair,Furniture,North,3,180,0.1,486.0,118.48,UPI,9,Completed
+ORD100005,2025-06-08,CUST1188,Headphones,Electronics,East,2,90,0.1,162.0,10.28,Debit Card,9,Shipped
+ORD100006,2025-11-10,CUST1116,Smartphone Case,Mobile,East,5,18,0.1,81.0,6.51,UPI,4,Shipped
+ORD100007,2025-02-01,CUST1221,Webcam,Electronics,East,2,65,0.0,130.0,27.29,Cash on Delivery,7,Completed
+ORD100008,2025-09-12,CUST1044,Office Chair,Furniture,North,4,180,0.05,684.0,71.91,UPI,5,Pending
+ORD100009,2025-03-15,CUST1037,Mechanical Keyboard,Accessories,East,3,75,0.05,213.75,15.79,UPI,2,Shipped
+ORD100010,2025-02-04,CUST1166,Smartphone Case,Mobile,North,1,18,0.0,18.0,3.87,UPI,3,Cancelled
+ORD100011,2025-07-12,CUST1118,Headphones,Electronics,North,3,90,0.05,256.5,30.16,Debit Card,8,Cancelled
+ORD100012,2025-12-23,CUST1219,Office Chair,Furniture,East,1,180,0.05,171.0,48.75,UPI,7,Pending
+ORD100013,2025-09-26,CUST1152,Monitor,Electronics,West,5,210,0.1,945.0,239.45,Credit Card,6,Completed
+ORD100014,2025-10-05,CUST1107,Desk Lamp,Furniture,West,4,40,0.05,152.0,35.81,UPI,8,Completed
+ORD100015,2025-09-19,CUST1048,Laptop Stand,Accessories,Central,2,35,0.15,59.5,4.2,Net Banking,7,Completed
+ORD100016,2025-10-14,CUST1050,Wireless Mouse,Accessories,Central,3,22,0.1,59.4,12.63,UPI,4,Shipped
+ORD100017,2025-07-07,CUST1227,Webcam,Electronics,South,4,65,0.15,221.0,57.11,Credit Card,3,Cancelled
+ORD100018,2025-02-16,CUST1068,Office Chair,Furniture,West,2,180,0.1,324.0,32.47,Cash on Delivery,10,Cancelled
+ORD100019,2025-11-03,CUST1151,Desk Lamp,Furniture,North,2,40,0.1,72.0,3.59,UPI,10,Shipped
+ORD100020,2025-06-14,CUST1246,Monitor,Electronics,Central,3,210,0.1,567.0,69.08,UPI,1,Shipped
+ORD100021,2025-07-02,CUST1270,Headphones,Electronics,South,2,90,0.2,144.0,23.66,Cash on Delivery,8,Cancelled
+ORD100022,2025-05-16,CUST1081,Webcam,Electronics,West,4,65,0.1,234.0,60.18,UPI,2,Shipped
+ORD100023,2025-03-08,CUST1033,Smartphone Case,Mobile,Central,1,18,0.1,16.2,1.8,UPI,9,Completed
+ORD100024,2025-12-05,CUST1233,Headphones,Electronics,West,5,90,0.1,405.0,84.82,Credit Card,6,Completed
+ORD100025,2025-10-13,CUST1207,Monitor,Electronics,Central,2,210,0.1,378.0,56.99,UPI,7,Completed
+ORD100026,2025-08-24,CUST1100,Smartphone Case,Mobile,North,3,18,0.0,54.0,-4.32,Net Banking,8,Shipped
+ORD100027,2025-05-27,CUST1179,Wireless Mouse,Accessories,North,1,22,0.1,19.8,0.44,Debit Card,7,Shipped
+ORD100028,2025-10-28,CUST1057,Smartphone Case,Mobile,West,2,18,0.1,32.4,7.87,Credit Card,3,Completed
+ORD100029,2025-07-19,CUST1211,Wireless Mouse,Accessories,East,4,22,0.2,70.4,6.9,UPI,9,Completed
+ORD100030,2025-06-11,CUST1219,Mechanical Keyboard,Accessories,North,2,75,0.1,135.0,21.0,Debit Card,6,Completed
+ORD100031,2025-06-14,CUST1090,Desk Lamp,Furniture,West,1,40,0.1,36.0,5.8,Debit Card,6,Completed
+ORD100032,2025-03-24,CUST1141,Office Chair,Furniture,North,3,180,0.2,432.0,40.85,UPI,4,Pending
+ORD100033,2025-02-03,CUST1101,Smartphone Case,Mobile,Central,1,18,0.1,16.2,-0.65,Cash on Delivery,1,Shipped
+ORD100034,2025-07-22,CUST1010,Office Chair,Furniture,North,2,180,0.0,360.0,42.5,Credit Card,6,Cancelled
+ORD100035,2025-11-21,CUST1039,Headphones,Electronics,East,3,90,0.05,256.5,80.37,Cash on Delivery,4,Cancelled
+ORD100036,2025-01-24,CUST1288,USB-C Hub,Accessories,Central,3,45,0.0,135.0,31.62,UPI,7,Pending
+ORD100037,2025-11-10,CUST1137,Laptop Stand,Accessories,East,4,35,0.0,140.0,25.81,UPI,4,Completed
+ORD100038,2025-10-30,CUST1045,Wireless Mouse,Accessories,West,4,22,0.05,83.6,-7.1,Debit Card,10,Completed
+ORD100039,2025-04-12,CUST1014,Mechanical Keyboard,Accessories,West,5,75,0.15,318.75,28.86,Cash on Delivery,7,Completed
+ORD100040,2025-08-19,CUST1107,Laptop Stand,Accessories,Central,1,35,0.1,31.5,4.7,Credit Card,5,Completed
+ORD100041,2025-03-02,CUST1295,Webcam,Electronics,East,2,65,0.0,130.0,15.98,UPI,8,Completed
+ORD100042,2025-10-04,CUST1116,Office Chair,Furniture,Central,1,180,0.1,162.0,45.58,Cash on Delivery,7,Completed
+ORD100043,2025-09-13,CUST1300,Smartphone Case,Mobile,East,1,18,0.0,18.0,2.84,UPI,7,Completed
+ORD100044,2025-05-10,CUST1147,Monitor,Electronics,Central,2,210,0.2,336.0,58.89,UPI,6,Pending
+ORD100045,2025-01-25,CUST1230,Desk Lamp,Furniture,West,3,40,0.0,120.0,22.57,Debit Card,10,Completed
+ORD100046,2025-12-21,CUST1236,Smartphone Case,Mobile,North,5,18,0.1,81.0,20.18,UPI,4,Shipped
+ORD100047,2025-06-12,CUST1009,Desk Lamp,Furniture,West,4,40,0.05,152.0,15.3,UPI,5,Shipped
+ORD100048,2025-11-22,CUST1002,Monitor,Electronics,Central,4,210,0.1,756.0,176.73,UPI,3,Cancelled
+ORD100049,2025-09-05,CUST1277,USB-C Hub,Accessories,North,4,45,0.05,171.0,48.25,Net Banking,6,Completed
+ORD100050,2025-10-12,CUST1280,Smartphone Case,Mobile,Central,1,18,0.15,15.3,-1.06,UPI,10,Completed
+ORD100051,2025-10-05,CUST1040,Mechanical Keyboard,Accessories,North,5,75,0.05,356.25,97.5,Debit Card,7,Completed
+ORD100052,2025-03-13,CUST1194,Monitor,Electronics,Central,5,210,0.2,840.0,83.87,Net Banking,3,Completed
+ORD100053,2025-05-13,CUST1278,Laptop Stand,Accessories,West,1,35,0.1,31.5,6.68,Debit Card,10,Completed
+ORD100054,2025-06-20,CUST1286,Office Chair,Furniture,North,3,180,0.15,459.0,116.59,Credit Card,8,Pending
+ORD100055,2025-07-01,CUST1089,Headphones,Electronics,West,5,90,0.15,382.5,70.1,Credit Card,5,Completed
+ORD100056,2025-01-16,CUST1246,Laptop Stand,Accessories,North,3,35,0.2,84.0,15.86,Credit Card,2,Completed
+ORD100057,2025-07-19,CUST1194,Mechanical Keyboard,Accessories,East,5,75,0.05,356.25,80.67,Credit Card,5,Completed
+ORD100058,2025-02-26,CUST1279,Webcam,Electronics,Central,5,65,0.05,308.75,26.63,Net Banking,9,Cancelled
+ORD100059,2025-09-29,CUST1045,Webcam,Electronics,South,3,65,0.05,185.25,12.93,Cash on Delivery,6,Shipped
+ORD100060,2025-09-07,CUST1181,Desk Lamp,Furniture,North,1,40,0.05,38.0,4.39,Credit Card,2,Shipped
+ORD100061,2025-12-03,CUST1008,Mechanical Keyboard,Accessories,East,2,75,0.1,135.0,22.49,UPI,2,Completed
+ORD100062,2025-09-29,CUST1108,Smartphone Case,Mobile,South,2,18,0.2,28.8,-1.74,Cash on Delivery,10,Completed
+ORD100063,2025-05-14,CUST1004,Monitor,Electronics,North,3,210,0.2,504.0,66.49,UPI,5,Completed
+ORD100064,2025-12-20,CUST1133,Desk Lamp,Furniture,East,3,40,0.1,108.0,21.72,Cash on Delivery,7,Completed
+ORD100065,2025-05-30,CUST1244,Mechanical Keyboard,Accessories,South,3,75,0.1,202.5,26.14,UPI,4,Completed
+ORD100066,2025-04-29,CUST1198,Laptop Stand,Accessories,North,1,35,0.15,29.75,3.52,Debit Card,1,Cancelled
+ORD100067,2025-11-27,CUST1096,Laptop Stand,Accessories,South,2,35,0.2,56.0,6.6,Cash on Delivery,5,Completed
+ORD100068,2025-05-16,CUST1129,USB-C Hub,Accessories,North,4,45,0.05,171.0,8.1,Credit Card,7,Shipped
+ORD100069,2025-01-28,CUST1111,Smartphone Case,Mobile,Central,1,18,0.1,16.2,0.97,UPI,4,Pending
+ORD100070,2025-06-21,CUST1220,Laptop Stand,Accessories,Central,2,35,0.15,59.5,5.11,Cash on Delivery,7,Pending
+ORD100071,2025-10-18,CUST1080,USB-C Hub,Accessories,South,5,45,0.05,213.75,-2.03,Credit Card,5,Shipped
+ORD100072,2025-03-11,CUST1028,Wireless Mouse,Accessories,Central,1,22,0.05,20.9,4.59,UPI,4,Pending
+ORD100073,2025-06-18,CUST1153,Smartphone Case,Mobile,East,3,18,0.2,43.2,2.23,Credit Card,3,Completed
+ORD100074,2025-02-17,CUST1249,Headphones,Electronics,Central,2,90,0.2,144.0,29.63,Credit Card,3,Completed
+ORD100075,2025-09-08,CUST1144,Office Chair,Furniture,North,1,180,0.2,144.0,40.71,Debit Card,3,Completed
+ORD100076,2025-06-23,CUST1062,Office Chair,Furniture,South,3,180,0.15,459.0,136.11,UPI,8,Pending
+ORD100077,2025-05-01,CUST1014,Headphones,Electronics,West,3,90,0.05,256.5,36.44,Credit Card,4,Completed
+ORD100078,2025-03-24,CUST1284,Office Chair,Furniture,South,1,180,0.05,171.0,35.33,Cash on Delivery,8,Cancelled
+ORD100079,2025-07-26,CUST1229,Laptop Stand,Accessories,Central,1,35,0.1,31.5,5.97,UPI,4,Completed
+ORD100080,2025-09-02,CUST1047,Desk Lamp,Furniture,East,1,40,0.1,36.0,2.39,Credit Card,4,Completed
+ORD100081,2025-12-10,CUST1023,Office Chair,Furniture,East,4,180,0.1,648.0,86.24,Debit Card,10,Pending
+ORD100082,2025-06-09,CUST1039,Office Chair,Furniture,East,5,180,0.1,810.0,79.84,Cash on Delivery,9,Pending
+ORD100083,2025-02-28,CUST1113,USB-C Hub,Accessories,West,1,45,0.05,42.75,7.72,Credit Card,5,Shipped
+ORD100084,2025-10-31,CUST1244,Desk Lamp,Furniture,North,2,40,0.1,72.0,18.22,Cash on Delivery,3,Completed
+ORD100085,2025-08-18,CUST1048,USB-C Hub,Accessories,West,2,45,0.05,85.5,15.28,UPI,8,Completed
+ORD100086,2025-09-13,CUST1246,Laptop Stand,Accessories,West,2,35,0.05,66.5,9.12,Credit Card,1,Completed
+ORD100087,2025-02-05,CUST1001,Smartphone Case,Mobile,Central,2,18,0.0,36.0,-2.62,Net Banking,5,Completed
+ORD100088,2025-04-25,CUST1222,Mechanical Keyboard,Accessories,Central,1,75,0.0,75.0,13.3,Cash on Delivery,6,Completed
+ORD100089,2025-10-08,CUST1085,Wireless Mouse,Accessories,West,3,22,0.15,56.1,-0.08,Credit Card,7,Cancelled
+ORD100090,2025-10-31,CUST1289,Headphones,Electronics,East,2,90,0.05,171.0,46.56,Credit Card,2,Cancelled
+ORD100091,2025-06-08,CUST1143,Mechanical Keyboard,Accessories,East,2,75,0.05,142.5,40.64,Credit Card,1,Pending
+ORD100092,2025-10-21,CUST1082,Desk Lamp,Furniture,South,2,40,0.15,68.0,19.87,UPI,3,Completed
+ORD100093,2025-11-04,CUST1073,Monitor,Electronics,Central,5,210,0.1,945.0,266.94,Cash on Delivery,2,Completed
+ORD100094,2025-05-22,CUST1248,Laptop Stand,Accessories,South,4,35,0.0,140.0,34.17,Cash on Delivery,6,Completed
+ORD100095,2025-11-24,CUST1121,Smartphone Case,Mobile,East,3,18,0.05,51.3,0.12,Credit Card,10,Shipped
+ORD100096,2025-04-16,CUST1106,Webcam,Electronics,North,2,65,0.0,130.0,8.66,UPI,3,Shipped
+ORD100097,2025-03-29,CUST1221,Mechanical Keyboard,Accessories,South,5,75,0.1,337.5,24.87,UPI,5,Completed
+ORD100098,2025-09-07,CUST1162,Headphones,Electronics,South,5,90,0.05,427.5,62.46,UPI,3,Completed
+ORD100099,2025-08-21,CUST1200,Webcam,Electronics,East,1,65,0.0,65.0,7.09,Debit Card,1,Completed
+ORD100100,2025-02-21,CUST1134,Laptop Stand,Accessories,East,5,35,0.0,175.0,7.38,Credit Card,8,Pending
+ORD100101,2025-10-31,CUST1020,Office Chair,Furniture,West,4,180,0.1,648.0,192.53,UPI,3,Cancelled
+ORD100102,2025-03-14,CUST1002,Monitor,Electronics,East,1,210,0.0,210.0,23.79,Debit Card,6,Cancelled
+ORD100103,2025-10-21,CUST1012,Headphones,Electronics,North,4,90,0.15,306.0,78.98,Net Banking,7,Shipped
+ORD100104,2025-01-03,CUST1173,Desk Lamp,Furniture,East,1,40,0.0,40.0,9.1,UPI,9,Completed
+ORD100105,2025-10-18,CUST1155,Headphones,Electronics,North,1,90,0.1,81.0,18.89,Credit Card,2,Cancelled
+ORD100106,2025-10-15,CUST1225,Headphones,Electronics,Central,1,90,0.05,85.5,20.21,Credit Card,6,Completed
+ORD100107,2025-10-12,CUST1269,Mechanical Keyboard,Accessories,West,3,75,0.05,213.75,27.46,UPI,10,Completed
+ORD100108,2025-08-31,CUST1053,Mechanical Keyboard,Accessories,South,4,75,0.0,300.0,65.03,Credit Card,5,Cancelled
+ORD100109,2025-06-22,CUST1288,Monitor,Electronics,South,3,210,0.15,535.5,55.55,Debit Card,1,Completed
+ORD100110,2025-09-15,CUST1280,Desk Lamp,Furniture,North,1,40,0.15,34.0,7.86,UPI,3,Completed
+ORD100111,2025-04-12,CUST1185,Webcam,Electronics,South,1,65,0.0,65.0,7.83,UPI,8,Completed
+ORD100112,2025-10-12,CUST1160,USB-C Hub,Accessories,North,5,45,0.0,225.0,15.82,Cash on Delivery,8,Completed
+ORD100113,2025-07-22,CUST1053,Office Chair,Furniture,Central,5,180,0.2,720.0,175.32,UPI,4,Completed
+ORD100114,2025-06-17,CUST1054,Desk Lamp,Furniture,North,4,40,0.1,144.0,21.09,Debit Card,2,Cancelled
+ORD100115,2025-07-04,CUST1006,Smartphone Case,Mobile,West,1,18,0.0,18.0,3.38,Debit Card,3,Completed
+ORD100116,2025-07-27,CUST1194,Mechanical Keyboard,Accessories,East,5,75,0.05,356.25,70.18,Cash on Delivery,3,Cancelled
+ORD100117,2025-01-14,CUST1130,Office Chair,Furniture,South,4,180,0.1,648.0,61.69,Debit Card,8,Completed
+ORD100118,2025-02-21,CUST1058,Webcam,Electronics,Central,3,65,0.1,175.5,32.95,Cash on Delivery,9,Shipped
+ORD100119,2025-03-31,CUST1041,Monitor,Electronics,North,1,210,0.1,189.0,23.98,Debit Card,1,Shipped
+ORD100120,2025-02-11,CUST1020,USB-C Hub,Accessories,Central,5,45,0.2,180.0,18.25,Credit Card,8,Completed
+ORD100121,2025-06-10,CUST1193,Wireless Mouse,Accessories,West,3,22,0.1,59.4,-2.83,Credit Card,8,Completed
+ORD100122,2025-09-01,CUST1206,Mechanical Keyboard,Accessories,West,1,75,0.05,71.25,9.18,Credit Card,7,Cancelled
+ORD100123,2025-08-27,CUST1190,Webcam,Electronics,Central,2,65,0.1,117.0,13.71,Credit Card,9,Completed
+ORD100124,2025-06-21,CUST1034,Desk Lamp,Furniture,East,3,40,0.05,114.0,20.84,UPI,1,Shipped
+ORD100125,2025-11-09,CUST1013,Desk Lamp,Furniture,South,1,40,0.05,38.0,3.97,Credit Card,7,Completed
+ORD100126,2025-07-26,CUST1032,Wireless Mouse,Accessories,North,2,22,0.0,44.0,1.15,Credit Card,2,Shipped
+ORD100127,2025-01-29,CUST1226,Headphones,Electronics,Central,3,90,0.05,256.5,53.16,UPI,9,Completed
+ORD100128,2025-10-07,CUST1222,Laptop Stand,Accessories,East,5,35,0.1,157.5,2.64,UPI,5,Pending
+ORD100129,2025-07-29,CUST1089,Headphones,Electronics,Central,1,90,0.0,90.0,18.72,Debit Card,1,Completed
+ORD100130,2025-08-20,CUST1017,USB-C Hub,Accessories,South,3,45,0.05,128.25,28.27,Credit Card,8,Shipped
+ORD100131,2025-07-26,CUST1096,Monitor,Electronics,Central,5,210,0.1,945.0,170.36,Cash on Delivery,8,Shipped
+ORD100132,2025-07-22,CUST1243,Office Chair,Furniture,Central,5,180,0.1,810.0,221.18,Credit Card,5,Completed
+ORD100133,2025-02-03,CUST1044,Monitor,Electronics,South,5,210,0.15,892.5,91.11,Cash on Delivery,4,Completed
+ORD100134,2025-07-24,CUST1239,Desk Lamp,Furniture,East,1,40,0.15,34.0,1.17,Cash on Delivery,1,Completed
+ORD100135,2025-10-18,CUST1140,Webcam,Electronics,West,5,65,0.1,292.5,57.24,UPI,10,Completed
+ORD100136,2025-04-21,CUST1043,Smartphone Case,Mobile,South,5,18,0.0,90.0,22.23,Net Banking,2,Completed
+ORD100137,2025-08-09,CUST1281,Headphones,Electronics,North,2,90,0.1,162.0,45.59,UPI,9,Shipped
+ORD100138,2025-01-12,CUST1156,Mechanical Keyboard,Accessories,South,3,75,0.1,202.5,18.66,Credit Card,6,Completed
+ORD100139,2025-05-07,CUST1202,Office Chair,Furniture,East,3,180,0.05,513.0,130.56,Cash on Delivery,7,Pending
+ORD100140,2025-06-09,CUST1029,Monitor,Electronics,North,3,210,0.0,630.0,97.59,UPI,7,Completed
+ORD100141,2025-12-25,CUST1112,Webcam,Electronics,South,2,65,0.05,123.5,17.85,Credit Card,9,Completed
+ORD100142,2025-03-20,CUST1190,Wireless Mouse,Accessories,Central,5,22,0.1,99.0,9.54,Credit Card,1,Completed
+ORD100143,2025-04-11,CUST1194,Wireless Mouse,Accessories,North,5,22,0.05,104.5,21.97,UPI,10,Completed
+ORD100144,2025-05-30,CUST1019,Webcam,Electronics,North,2,65,0.0,130.0,10.51,UPI,1,Pending
+ORD100145,2025-12-29,CUST1182,Wireless Mouse,Accessories,East,5,22,0.15,93.5,11.43,UPI,10,Pending
+ORD100146,2025-11-08,CUST1284,Smartphone Case,Mobile,North,2,18,0.2,28.8,-0.87,UPI,3,Completed
+ORD100147,2025-01-13,CUST1236,Desk Lamp,Furniture,North,4,40,0.05,152.0,26.72,Debit Card,9,Pending
+ORD100148,2025-03-27,CUST1063,Office Chair,Furniture,North,3,180,0.2,432.0,97.82,Credit Card,1,Completed
+ORD100149,2025-10-27,CUST1274,Office Chair,Furniture,North,3,180,0.0,540.0,148.22,Credit Card,5,Completed
+ORD100150,2025-01-22,CUST1205,Webcam,Electronics,Central,1,65,0.2,52.0,3.12,Debit Card,6,Completed
+ORD100151,2025-11-09,CUST1018,Laptop Stand,Accessories,North,4,35,0.2,112.0,6.06,UPI,10,Completed
+ORD100152,2025-04-13,CUST1039,USB-C Hub,Accessories,East,2,45,0.0,90.0,19.58,UPI,2,Completed
+ORD100153,2025-12-01,CUST1277,Monitor,Electronics,West,2,210,0.15,357.0,53.63,Debit Card,1,Completed
+ORD100154,2025-04-18,CUST1063,Smartphone Case,Mobile,West,1,18,0.2,14.4,1.37,Net Banking,7,Pending
+ORD100155,2025-06-08,CUST1030,Mechanical Keyboard,Accessories,West,5,75,0.2,300.0,19.55,Credit Card,1,Completed
+ORD100156,2025-08-30,CUST1136,Monitor,Electronics,South,1,210,0.2,168.0,24.05,UPI,8,Completed
+ORD100157,2025-02-16,CUST1158,USB-C Hub,Accessories,Central,4,45,0.1,162.0,0.46,Cash on Delivery,1,Completed
+ORD100158,2025-07-23,CUST1172,Wireless Mouse,Accessories,North,5,22,0.0,110.0,4.02,Cash on Delivery,10,Completed
+ORD100159,2025-07-04,CUST1198,Wireless Mouse,Accessories,North,1,22,0.15,18.7,3.66,Credit Card,6,Pending
+ORD100160,2025-10-14,CUST1300,USB-C Hub,Accessories,Central,3,45,0.1,121.5,9.92,UPI,10,Pending
+ORD100161,2025-12-30,CUST1228,Laptop Stand,Accessories,North,3,35,0.1,94.5,26.92,UPI,2,Completed
+ORD100162,2025-08-31,CUST1008,Laptop Stand,Accessories,North,2,35,0.05,66.5,16.38,Credit Card,3,Completed
+ORD100163,2025-05-30,CUST1027,USB-C Hub,Accessories,North,4,45,0.1,162.0,7.95,Net Banking,5,Pending
+ORD100164,2025-05-29,CUST1001,Mechanical Keyboard,Accessories,North,3,75,0.0,225.0,44.86,Debit Card,1,Completed
+ORD100165,2025-06-02,CUST1119,Webcam,Electronics,North,3,65,0.1,175.5,30.41,UPI,2,Shipped
+ORD100166,2025-10-25,CUST1106,Laptop Stand,Accessories,East,3,35,0.0,105.0,24.39,Debit Card,4,Pending
+ORD100167,2025-04-28,CUST1281,USB-C Hub,Accessories,West,5,45,0.1,202.5,11.37,Cash on Delivery,8,Pending
+ORD100168,2025-03-02,CUST1110,Monitor,Electronics,North,4,210,0.15,714.0,80.01,Credit Card,8,Completed
+ORD100169,2025-05-03,CUST1010,Smartphone Case,Mobile,Central,2,18,0.1,32.4,2.01,Cash on Delivery,1,Completed
+ORD100170,2025-01-09,CUST1266,Headphones,Electronics,North,5,90,0.1,405.0,82.48,Credit Card,1,Pending
+ORD100171,2025-02-08,CUST1079,Desk Lamp,Furniture,West,5,40,0.05,190.0,54.51,UPI,7,Shipped
+ORD100172,2025-02-02,CUST1274,USB-C Hub,Accessories,Central,5,45,0.2,180.0,41.05,Credit Card,4,Pending
+ORD100173,2025-10-09,CUST1233,Monitor,Electronics,East,4,210,0.1,756.0,181.25,Credit Card,8,Completed
+ORD100174,2025-09-21,CUST1265,Monitor,Electronics,East,2,210,0.05,399.0,124.88,Net Banking,3,Cancelled
+ORD100175,2025-09-12,CUST1246,Desk Lamp,Furniture,North,4,40,0.0,160.0,29.39,Credit Card,4,Pending
+ORD100176,2025-06-18,CUST1043,Smartphone Case,Mobile,South,2,18,0.05,34.2,1.71,Credit Card,3,Completed
+ORD100177,2025-09-19,CUST1188,Smartphone Case,Mobile,Central,2,18,0.1,32.4,3.55,Credit Card,3,Completed
+ORD100178,2025-02-28,CUST1124,Office Chair,Furniture,South,3,180,0.2,432.0,70.03,Credit Card,8,Pending
+ORD100179,2025-11-25,CUST1189,Webcam,Electronics,North,5,65,0.1,292.5,5.78,Credit Card,5,Completed
+ORD100180,2025-07-02,CUST1224,Webcam,Electronics,West,3,65,0.05,185.25,37.06,Debit Card,7,Shipped
+ORD100181,2025-12-09,CUST1151,Smartphone Case,Mobile,West,2,18,0.15,30.6,5.15,Credit Card,1,Completed
+ORD100182,2025-02-25,CUST1094,Mechanical Keyboard,Accessories,North,3,75,0.05,213.75,26.46,Credit Card,6,Completed
+ORD100183,2025-07-01,CUST1275,USB-C Hub,Accessories,North,2,45,0.15,76.5,13.34,Debit Card,5,Completed
+ORD100184,2025-09-12,CUST1199,Desk Lamp,Furniture,North,4,40,0.05,152.0,10.95,UPI,10,Cancelled
+ORD100185,2025-06-30,CUST1266,USB-C Hub,Accessories,North,2,45,0.1,81.0,0.87,Debit Card,5,Cancelled
+ORD100186,2025-06-12,CUST1072,Mechanical Keyboard,Accessories,West,3,75,0.2,180.0,6.9,Credit Card,2,Completed
+ORD100187,2025-03-02,CUST1252,Webcam,Electronics,North,2,65,0.05,123.5,29.0,Credit Card,7,Completed
+ORD100188,2025-05-20,CUST1098,USB-C Hub,Accessories,West,2,45,0.1,81.0,22.04,Debit Card,2,Cancelled
+ORD100189,2025-03-29,CUST1139,Desk Lamp,Furniture,North,5,40,0.2,160.0,3.9,Debit Card,10,Cancelled
+ORD100190,2025-04-21,CUST1259,Smartphone Case,Mobile,Central,2,18,0.0,36.0,0.72,Cash on Delivery,4,Shipped
+ORD100191,2025-09-07,CUST1107,USB-C Hub,Accessories,West,1,45,0.0,45.0,4.9,Credit Card,8,Shipped
+ORD100192,2025-08-19,CUST1076,Webcam,Electronics,South,2,65,0.1,117.0,4.03,UPI,7,Completed
+ORD100193,2025-08-10,CUST1275,Smartphone Case,Mobile,East,3,18,0.05,51.3,4.69,Debit Card,5,Completed
+ORD100194,2025-05-13,CUST1290,Office Chair,Furniture,North,1,180,0.0,180.0,42.02,Credit Card,6,Completed
+ORD100195,2025-12-17,CUST1094,Mechanical Keyboard,Accessories,North,2,75,0.1,135.0,28.92,Debit Card,2,Completed
+ORD100196,2025-02-01,CUST1092,Webcam,Electronics,East,1,65,0.15,55.25,7.81,Credit Card,1,Cancelled
+ORD100197,2025-05-06,CUST1069,Headphones,Electronics,North,3,90,0.05,256.5,52.52,Debit Card,8,Completed
+ORD100198,2025-02-13,CUST1008,Headphones,Electronics,West,4,90,0.05,342.0,22.98,UPI,10,Completed
+ORD100199,2025-05-04,CUST1166,Laptop Stand,Accessories,South,5,35,0.15,148.75,14.27,Credit Card,9,Completed
+ORD100200,2025-12-18,CUST1077,Mechanical Keyboard,Accessories,North,2,75,0.1,135.0,34.76,UPI,4,Completed
+ORD100201,2025-05-14,CUST1255,Desk Lamp,Furniture,East,5,40,0.15,170.0,28.71,Credit Card,4,Cancelled
+ORD100202,2025-11-28,CUST1052,Mechanical Keyboard,Accessories,East,2,75,0.05,142.5,36.98,Debit Card,4,Completed
+ORD100203,2025-06-30,CUST1191,Mechanical Keyboard,Accessories,West,4,75,0.2,240.0,71.69,Credit Card,8,Pending
+ORD100204,2025-09-13,CUST1153,USB-C Hub,Accessories,North,3,45,0.1,121.5,25.38,Credit Card,7,Pending
+ORD100205,2025-06-16,CUST1184,Wireless Mouse,Accessories,East,4,22,0.0,88.0,19.15,Cash on Delivery,8,Pending
+ORD100206,2025-04-08,CUST1034,Wireless Mouse,Accessories,Central,4,22,0.15,74.8,3.94,Debit Card,10,Completed
+ORD100207,2025-10-06,CUST1140,USB-C Hub,Accessories,South,3,45,0.1,121.5,-1.21,Credit Card,4,Cancelled
+ORD100208,2025-12-20,CUST1188,Desk Lamp,Furniture,Central,2,40,0.0,80.0,4.6,Net Banking,7,Shipped
+ORD100209,2025-04-07,CUST1103,Laptop Stand,Accessories,West,3,35,0.0,105.0,0.66,Credit Card,6,Completed
+ORD100210,2025-10-12,CUST1263,Mechanical Keyboard,Accessories,East,5,75,0.1,337.5,31.46,Cash on Delivery,10,Shipped
+ORD100211,2025-04-06,CUST1159,Laptop Stand,Accessories,Central,5,35,0.0,175.0,21.35,UPI,4,Completed
+ORD100212,2025-09-19,CUST1109,Webcam,Electronics,Central,5,65,0.05,308.75,75.62,UPI,2,Completed
+ORD100213,2025-10-15,CUST1010,Mechanical Keyboard,Accessories,South,1,75,0.0,75.0,17.26,UPI,4,Completed
+ORD100214,2025-06-14,CUST1051,Office Chair,Furniture,Central,3,180,0.05,513.0,111.9,UPI,7,Completed
+ORD100215,2025-09-26,CUST1143,Webcam,Electronics,North,1,65,0.05,61.75,6.08,Credit Card,10,Shipped
+ORD100216,2025-04-10,CUST1121,Office Chair,Furniture,North,4,180,0.1,648.0,155.75,UPI,9,Completed
+ORD100217,2025-01-29,CUST1262,Headphones,Electronics,North,5,90,0.05,427.5,59.91,Debit Card,1,Completed
+ORD100218,2025-02-05,CUST1236,Monitor,Electronics,South,1,210,0.0,210.0,17.4,UPI,6,Cancelled
+ORD100219,2025-06-13,CUST1048,Desk Lamp,Furniture,Central,4,40,0.1,144.0,21.18,UPI,2,Completed
+ORD100220,2025-11-26,CUST1178,Monitor,Electronics,West,5,210,0.05,997.5,148.73,Net Banking,4,Cancelled
+ORD100221,2025-02-16,CUST1137,Smartphone Case,Mobile,West,5,18,0.1,81.0,5.71,Debit Card,10,Completed
+ORD100222,2025-06-16,CUST1031,Smartphone Case,Mobile,North,2,18,0.0,36.0,8.45,Net Banking,10,Completed
+ORD100223,2025-09-14,CUST1200,Webcam,Electronics,East,1,65,0.0,65.0,14.6,Credit Card,2,Completed
+ORD100224,2025-03-15,CUST1162,Headphones,Electronics,South,5,90,0.05,427.5,100.99,UPI,2,Completed
+ORD100225,2025-09-21,CUST1027,Mechanical Keyboard,Accessories,East,5,75,0.1,337.5,26.42,Credit Card,7,Pending
+ORD100226,2025-04-22,CUST1141,Desk Lamp,Furniture,South,3,40,0.05,114.0,26.67,Credit Card,5,Completed
+ORD100227,2025-10-23,CUST1220,Headphones,Electronics,South,5,90,0.15,382.5,89.03,UPI,5,Completed
+ORD100228,2025-07-31,CUST1099,Smartphone Case,Mobile,Central,1,18,0.05,17.1,1.62,Cash on Delivery,9,Cancelled
+ORD100229,2025-07-19,CUST1108,Mechanical Keyboard,Accessories,East,4,75,0.1,270.0,59.81,Debit Card,10,Shipped
+ORD100230,2025-03-06,CUST1034,Office Chair,Furniture,East,1,180,0.1,162.0,31.64,Debit Card,10,Completed
+ORD100231,2025-06-19,CUST1062,Monitor,Electronics,North,5,210,0.0,1050.0,188.55,Credit Card,8,Completed
+ORD100232,2025-11-09,CUST1295,Wireless Mouse,Accessories,West,4,22,0.1,79.2,-5.96,Debit Card,10,Completed
+ORD100233,2025-01-08,CUST1187,Wireless Mouse,Accessories,East,5,22,0.05,104.5,4.73,UPI,8,Shipped
+ORD100234,2025-10-04,CUST1053,Webcam,Electronics,South,3,65,0.05,185.25,14.8,Net Banking,9,Cancelled
+ORD100235,2025-06-29,CUST1145,USB-C Hub,Accessories,West,1,45,0.0,45.0,3.07,Credit Card,6,Completed
+ORD100236,2025-09-20,CUST1058,Wireless Mouse,Accessories,North,1,22,0.15,18.7,-0.18,UPI,1,Completed
+ORD100237,2025-08-31,CUST1133,Monitor,Electronics,East,2,210,0.2,336.0,97.19,UPI,9,Cancelled
+ORD100238,2025-06-07,CUST1044,Headphones,Electronics,Central,4,90,0.0,360.0,49.63,Debit Card,10,Completed
+ORD100239,2025-04-23,CUST1186,USB-C Hub,Accessories,East,1,45,0.1,40.5,5.51,Net Banking,4,Completed
+ORD100240,2025-08-17,CUST1172,Smartphone Case,Mobile,North,5,18,0.15,76.5,6.0,Cash on Delivery,5,Completed
+ORD100241,2025-02-21,CUST1191,Office Chair,Furniture,South,2,180,0.05,342.0,100.76,Debit Card,6,Completed
+ORD100242,2025-08-02,CUST1134,Webcam,Electronics,North,3,65,0.15,165.75,31.88,Net Banking,7,Shipped
+ORD100243,2025-02-04,CUST1086,Smartphone Case,Mobile,East,2,18,0.1,32.4,2.72,Debit Card,7,Completed
+ORD100244,2025-08-26,CUST1075,Monitor,Electronics,South,3,210,0.2,504.0,65.66,UPI,4,Completed
+ORD100245,2025-08-18,CUST1065,Wireless Mouse,Accessories,North,3,22,0.2,52.8,4.36,Debit Card,9,Pending
+ORD100246,2025-01-31,CUST1129,Laptop Stand,Accessories,West,1,35,0.0,35.0,5.64,UPI,9,Cancelled
+ORD100247,2025-10-04,CUST1136,Smartphone Case,Mobile,North,3,18,0.05,51.3,3.78,UPI,10,Completed
+ORD100248,2025-06-01,CUST1203,Smartphone Case,Mobile,South,4,18,0.1,64.8,9.83,Credit Card,6,Completed
+ORD100249,2025-10-15,CUST1016,Office Chair,Furniture,Central,5,180,0.0,900.0,250.86,UPI,1,Completed
+ORD100250,2025-01-16,CUST1085,Wireless Mouse,Accessories,North,2,22,0.05,41.8,7.92,Net Banking,9,Completed
+ORD100251,2025-03-07,CUST1256,Mechanical Keyboard,Accessories,South,5,75,0.2,300.0,77.09,Net Banking,1,Completed
+ORD100252,2025-06-30,CUST1275,Laptop Stand,Accessories,South,5,35,0.0,175.0,17.75,Credit Card,2,Pending
+ORD100253,2025-03-10,CUST1280,Laptop Stand,Accessories,East,5,35,0.1,157.5,9.77,Debit Card,3,Completed
+ORD100254,2025-05-01,CUST1092,Mechanical Keyboard,Accessories,South,2,75,0.15,127.5,19.88,Credit Card,2,Pending
+ORD100255,2025-08-30,CUST1042,Webcam,Electronics,Central,5,65,0.05,308.75,16.91,UPI,8,Completed
+ORD100256,2025-02-22,CUST1060,Laptop Stand,Accessories,North,3,35,0.1,94.5,21.78,UPI,5,Shipped
+ORD100257,2025-09-05,CUST1040,Smartphone Case,Mobile,Central,1,18,0.2,14.4,0.91,UPI,3,Cancelled
+ORD100258,2025-02-07,CUST1287,Monitor,Electronics,East,2,210,0.1,378.0,53.58,UPI,1,Pending
+ORD100259,2025-03-05,CUST1266,Mechanical Keyboard,Accessories,North,4,75,0.0,300.0,63.98,UPI,3,Pending
+ORD100260,2025-08-03,CUST1244,Webcam,Electronics,North,1,65,0.0,65.0,2.57,UPI,7,Completed
+ORD100261,2025-10-17,CUST1219,Office Chair,Furniture,North,3,180,0.2,432.0,37.73,UPI,8,Shipped
+ORD100262,2025-03-04,CUST1103,USB-C Hub,Accessories,South,4,45,0.05,171.0,35.61,Net Banking,3,Shipped
+ORD100263,2025-04-20,CUST1143,Laptop Stand,Accessories,South,1,35,0.1,31.5,1.75,UPI,1,Completed
+ORD100264,2025-12-04,CUST1253,Laptop Stand,Accessories,West,3,35,0.0,105.0,8.79,UPI,6,Completed
+ORD100265,2025-12-28,CUST1245,Desk Lamp,Furniture,South,2,40,0.05,76.0,10.86,Credit Card,8,Cancelled
+ORD100266,2025-08-01,CUST1156,Wireless Mouse,Accessories,West,3,22,0.2,52.8,5.3,Credit Card,1,Completed
+ORD100267,2025-06-13,CUST1252,Headphones,Electronics,South,2,90,0.1,162.0,18.98,Credit Card,8,Cancelled
+ORD100268,2025-05-07,CUST1105,USB-C Hub,Accessories,South,5,45,0.2,180.0,34.21,UPI,2,Cancelled
+ORD100269,2025-08-12,CUST1125,Office Chair,Furniture,South,1,180,0.05,171.0,48.76,Debit Card,3,Completed
+ORD100270,2025-08-04,CUST1252,Laptop Stand,Accessories,South,5,35,0.1,157.5,13.19,Credit Card,7,Pending
+ORD100271,2025-04-18,CUST1113,Desk Lamp,Furniture,Central,4,40,0.15,136.0,27.71,Debit Card,1,Shipped
+ORD100272,2025-01-09,CUST1226,Headphones,Electronics,South,5,90,0.05,427.5,89.65,Credit Card,4,Completed
+ORD100273,2025-02-25,CUST1136,Monitor,Electronics,South,5,210,0.05,997.5,220.46,Credit Card,2,Pending
+ORD100274,2025-12-16,CUST1090,Mechanical Keyboard,Accessories,Central,1,75,0.15,63.75,15.8,Credit Card,3,Completed
+ORD100275,2025-06-02,CUST1066,Smartphone Case,Mobile,West,5,18,0.05,85.5,11.38,UPI,8,Completed
+ORD100276,2025-06-26,CUST1183,USB-C Hub,Accessories,North,3,45,0.1,121.5,25.77,Credit Card,3,Cancelled
+ORD100277,2025-06-20,CUST1144,Monitor,Electronics,Central,5,210,0.2,840.0,153.94,UPI,1,Pending
+ORD100278,2025-10-13,CUST1111,USB-C Hub,Accessories,North,5,45,0.0,225.0,42.04,UPI,3,Completed
+ORD100279,2025-01-24,CUST1223,Mechanical Keyboard,Accessories,North,3,75,0.05,213.75,23.77,Debit Card,1,Completed
+ORD100280,2025-01-31,CUST1001,Monitor,Electronics,East,2,210,0.0,420.0,36.45,UPI,7,Completed
+ORD100281,2025-04-11,CUST1028,Wireless Mouse,Accessories,West,1,22,0.05,20.9,3.17,UPI,10,Completed
+ORD100282,2025-06-27,CUST1289,Laptop Stand,Accessories,North,1,35,0.05,33.25,0.38,Debit Card,2,Completed
+ORD100283,2025-09-02,CUST1200,Mechanical Keyboard,Accessories,West,2,75,0.1,135.0,13.41,Credit Card,8,Shipped
+ORD100284,2025-06-29,CUST1165,Wireless Mouse,Accessories,North,5,22,0.0,110.0,6.46,Cash on Delivery,4,Completed
+ORD100285,2025-06-11,CUST1005,Monitor,Electronics,West,3,210,0.1,567.0,60.94,Net Banking,1,Completed
+ORD100286,2025-12-09,CUST1180,Desk Lamp,Furniture,North,3,40,0.05,114.0,23.23,Net Banking,7,Completed
+ORD100287,2025-02-28,CUST1131,Wireless Mouse,Accessories,East,2,22,0.05,41.8,3.44,Credit Card,3,Cancelled
+ORD100288,2025-07-28,CUST1180,Laptop Stand,Accessories,West,3,35,0.05,99.75,16.71,UPI,6,Cancelled
+ORD100289,2025-07-17,CUST1013,Wireless Mouse,Accessories,South,4,22,0.1,79.2,3.44,Debit Card,6,Pending
+ORD100290,2025-06-22,CUST1166,Webcam,Electronics,West,5,65,0.1,292.5,43.15,Debit Card,6,Completed
+ORD100291,2025-10-22,CUST1174,Mechanical Keyboard,Accessories,West,4,75,0.05,285.0,38.53,Debit Card,2,Completed
+ORD100292,2025-04-08,CUST1088,Monitor,Electronics,West,4,210,0.15,714.0,166.97,UPI,3,Completed
+ORD100293,2025-12-15,CUST1017,Laptop Stand,Accessories,South,5,35,0.1,157.5,14.56,UPI,8,Cancelled
+ORD100294,2025-05-02,CUST1292,USB-C Hub,Accessories,West,3,45,0.05,128.25,24.1,UPI,10,Pending
+ORD100295,2025-07-18,CUST1213,Monitor,Electronics,West,5,210,0.2,840.0,159.95,UPI,1,Cancelled
+ORD100296,2025-07-10,CUST1187,Monitor,Electronics,South,2,210,0.05,399.0,121.59,UPI,5,Completed
+ORD100297,2025-11-07,CUST1231,Webcam,Electronics,West,1,65,0.0,65.0,15.08,Net Banking,9,Cancelled
+ORD100298,2025-06-10,CUST1202,Office Chair,Furniture,Central,3,180,0.1,486.0,90.92,UPI,3,Pending
+ORD100299,2025-04-14,CUST1041,Monitor,Electronics,Central,1,210,0.0,210.0,37.53,Debit Card,5,Pending
+ORD100300,2025-01-08,CUST1137,Desk Lamp,Furniture,West,1,40,0.05,38.0,0.2,Net Banking,10,Shipped
+ORD100301,2025-05-13,CUST1267,Webcam,Electronics,West,5,65,0.1,292.5,89.19,Credit Card,10,Completed
+ORD100302,2025-10-29,CUST1087,Mechanical Keyboard,Accessories,Central,4,75,0.0,300.0,39.7,Credit Card,7,Shipped
+ORD100303,2025-01-04,CUST1292,Mechanical Keyboard,Accessories,South,2,75,0.15,127.5,13.09,Debit Card,7,Completed
+ORD100304,2025-11-24,CUST1020,USB-C Hub,Accessories,West,5,45,0.2,180.0,48.37,UPI,7,Shipped
+ORD100305,2025-07-18,CUST1100,Webcam,Electronics,North,1,65,0.1,58.5,14.25,Credit Card,3,Completed
+ORD100306,2025-02-21,CUST1106,Mechanical Keyboard,Accessories,South,2,75,0.1,135.0,9.15,Cash on Delivery,9,Pending
+ORD100307,2025-04-21,CUST1186,Smartphone Case,Mobile,Central,4,18,0.1,64.8,-0.44,Debit Card,1,Completed
+ORD100308,2025-07-22,CUST1053,Monitor,Electronics,South,2,210,0.2,336.0,27.43,Cash on Delivery,1,Shipped
+ORD100309,2025-04-26,CUST1069,Desk Lamp,Furniture,Central,4,40,0.05,152.0,21.93,Net Banking,7,Completed
+ORD100310,2025-02-09,CUST1199,Headphones,Electronics,East,5,90,0.0,450.0,37.3,Credit Card,9,Pending
+ORD100311,2025-09-01,CUST1086,USB-C Hub,Accessories,South,1,45,0.1,40.5,9.96,Debit Card,9,Pending
+ORD100312,2025-09-03,CUST1264,Mechanical Keyboard,Accessories,North,1,75,0.1,67.5,18.51,Debit Card,7,Completed
+ORD100313,2025-02-13,CUST1262,Office Chair,Furniture,East,5,180,0.0,900.0,172.4,Debit Card,4,Completed
+ORD100314,2025-04-13,CUST1091,USB-C Hub,Accessories,East,3,45,0.1,121.5,26.24,Debit Card,4,Shipped
+ORD100315,2025-03-31,CUST1168,Mechanical Keyboard,Accessories,East,3,75,0.0,225.0,32.39,Debit Card,5,Cancelled
+ORD100316,2025-08-29,CUST1100,Smartphone Case,Mobile,North,3,18,0.2,43.2,0.52,Cash on Delivery,3,Pending
+ORD100317,2025-09-24,CUST1104,Monitor,Electronics,South,3,210,0.05,598.5,148.63,UPI,5,Completed
+ORD100318,2025-09-23,CUST1202,Laptop Stand,Accessories,North,4,35,0.0,140.0,9.84,Debit Card,2,Completed
+ORD100319,2025-12-09,CUST1088,Monitor,Electronics,South,3,210,0.0,630.0,54.18,UPI,4,Cancelled
+ORD100320,2025-10-08,CUST1045,Monitor,Electronics,Central,1,210,0.05,199.5,29.88,Credit Card,10,Cancelled
+ORD100321,2025-04-28,CUST1078,Desk Lamp,Furniture,North,4,40,0.05,152.0,11.26,Debit Card,8,Cancelled
+ORD100322,2025-02-09,CUST1279,Office Chair,Furniture,West,4,180,0.0,720.0,125.98,Cash on Delivery,2,Completed
+ORD100323,2025-08-13,CUST1078,Wireless Mouse,Accessories,North,1,22,0.05,20.9,2.13,Credit Card,3,Completed
+ORD100324,2025-12-01,CUST1110,Wireless Mouse,Accessories,East,2,22,0.0,44.0,5.18,Credit Card,3,Completed
+ORD100325,2025-12-22,CUST1189,Headphones,Electronics,Central,4,90,0.05,342.0,65.23,UPI,3,Cancelled
+ORD100326,2025-03-26,CUST1031,Laptop Stand,Accessories,South,4,35,0.05,133.0,28.75,UPI,7,Cancelled
+ORD100327,2025-03-28,CUST1081,USB-C Hub,Accessories,North,1,45,0.05,42.75,4.69,UPI,9,Completed
+ORD100328,2025-01-14,CUST1053,Wireless Mouse,Accessories,East,1,22,0.05,20.9,3.2,Net Banking,8,Completed
+ORD100329,2025-02-21,CUST1278,Laptop Stand,Accessories,South,3,35,0.0,105.0,18.35,UPI,5,Completed
+ORD100330,2025-07-22,CUST1280,Smartphone Case,Mobile,Central,3,18,0.0,54.0,0.6,Net Banking,2,Completed
+ORD100331,2025-07-19,CUST1227,Laptop Stand,Accessories,Central,5,35,0.05,166.25,35.56,UPI,2,Completed
+ORD100332,2025-05-16,CUST1075,Laptop Stand,Accessories,West,3,35,0.15,89.25,9.22,Debit Card,9,Completed
+ORD100333,2025-04-24,CUST1185,Smartphone Case,Mobile,West,5,18,0.2,72.0,-6.87,Credit Card,7,Shipped
+ORD100334,2025-10-30,CUST1199,Wireless Mouse,Accessories,West,2,22,0.2,35.2,1.01,Debit Card,6,Cancelled
+ORD100335,2025-06-17,CUST1261,Desk Lamp,Furniture,West,3,40,0.1,108.0,12.11,Debit Card,6,Cancelled
+ORD100336,2025-10-23,CUST1047,Laptop Stand,Accessories,East,1,35,0.1,31.5,4.82,Debit Card,9,Completed
+ORD100337,2025-12-18,CUST1221,Wireless Mouse,Accessories,Central,3,22,0.05,62.7,4.92,Net Banking,9,Pending
+ORD100338,2025-04-26,CUST1059,Wireless Mouse,Accessories,South,1,22,0.15,18.7,2.0,Credit Card,1,Shipped
+ORD100339,2025-03-15,CUST1171,Office Chair,Furniture,North,3,180,0.15,459.0,67.23,UPI,4,Completed
+ORD100340,2025-12-14,CUST1264,Headphones,Electronics,West,2,90,0.15,153.0,28.43,UPI,1,Pending
+ORD100341,2025-08-20,CUST1019,Monitor,Electronics,West,1,210,0.15,178.5,28.66,Debit Card,4,Completed
+ORD100342,2025-04-17,CUST1045,Mechanical Keyboard,Accessories,Central,1,75,0.05,71.25,19.63,Credit Card,7,Shipped
+ORD100343,2025-08-15,CUST1244,Laptop Stand,Accessories,South,3,35,0.15,89.25,-1.36,Credit Card,3,Pending
+ORD100344,2025-07-07,CUST1006,Webcam,Electronics,East,5,65,0.15,276.25,19.09,Credit Card,2,Cancelled
+ORD100345,2025-11-27,CUST1206,Mechanical Keyboard,Accessories,East,1,75,0.05,71.25,12.88,Credit Card,5,Cancelled
+ORD100346,2025-04-04,CUST1151,Webcam,Electronics,South,3,65,0.2,156.0,34.34,Debit Card,6,Pending
+ORD100347,2025-12-28,CUST1104,Headphones,Electronics,West,2,90,0.0,180.0,40.93,Debit Card,8,Completed
+ORD100348,2025-12-08,CUST1259,Desk Lamp,Furniture,East,5,40,0.2,160.0,30.4,Debit Card,1,Completed
+ORD100349,2025-03-07,CUST1255,Monitor,Electronics,West,3,210,0.15,535.5,133.59,Debit Card,3,Completed
+ORD100350,2025-03-02,CUST1098,Laptop Stand,Accessories,East,5,35,0.0,175.0,24.82,Cash on Delivery,8,Cancelled
+ORD100351,2025-07-14,CUST1002,Mechanical Keyboard,Accessories,South,2,75,0.1,135.0,11.3,Credit Card,7,Completed
+ORD100352,2025-01-17,CUST1039,Desk Lamp,Furniture,Central,1,40,0.0,40.0,1.58,Net Banking,9,Completed
+ORD100353,2025-04-20,CUST1033,Webcam,Electronics,East,3,65,0.15,165.75,14.78,UPI,9,Shipped
+ORD100354,2025-06-08,CUST1295,Headphones,Electronics,West,4,90,0.15,306.0,37.83,Debit Card,9,Completed
+ORD100355,2025-12-20,CUST1180,Monitor,Electronics,East,5,210,0.1,945.0,182.97,Debit Card,6,Shipped
+ORD100356,2025-12-29,CUST1204,Wireless Mouse,Accessories,South,5,22,0.15,93.5,0.55,Credit Card,10,Completed
+ORD100357,2025-02-25,CUST1070,Desk Lamp,Furniture,Central,5,40,0.0,200.0,27.51,UPI,5,Completed
+ORD100358,2025-11-22,CUST1256,Office Chair,Furniture,South,4,180,0.05,684.0,122.03,Credit Card,10,Shipped
+ORD100359,2025-02-03,CUST1217,Smartphone Case,Mobile,Central,2,18,0.05,34.2,8.1,Credit Card,4,Completed
+ORD100360,2025-10-01,CUST1226,Desk Lamp,Furniture,East,3,40,0.0,120.0,20.36,Net Banking,5,Completed
+ORD100361,2025-11-05,CUST1141,Mechanical Keyboard,Accessories,North,1,75,0.05,71.25,7.18,Credit Card,7,Completed
+ORD100362,2025-11-22,CUST1210,Mechanical Keyboard,Accessories,North,3,75,0.05,213.75,31.95,UPI,4,Shipped
+ORD100363,2025-03-23,CUST1164,Mechanical Keyboard,Accessories,Central,2,75,0.05,142.5,29.22,Credit Card,2,Completed
+ORD100364,2025-11-23,CUST1116,Smartphone Case,Mobile,East,1,18,0.05,17.1,0.56,Credit Card,9,Completed
+ORD100365,2025-02-12,CUST1179,Webcam,Electronics,South,2,65,0.15,110.5,15.9,UPI,5,Completed
+ORD100366,2025-07-09,CUST1098,Monitor,Electronics,Central,3,210,0.05,598.5,87.4,Credit Card,10,Completed
+ORD100367,2025-06-21,CUST1286,Smartphone Case,Mobile,West,2,18,0.15,30.6,1.5,Credit Card,4,Completed
+ORD100368,2025-04-26,CUST1216,Headphones,Electronics,West,5,90,0.05,427.5,99.88,UPI,10,Completed
+ORD100369,2025-01-09,CUST1222,Smartphone Case,Mobile,West,3,18,0.05,51.3,-0.88,Credit Card,7,Completed
+ORD100370,2025-10-09,CUST1216,Smartphone Case,Mobile,North,5,18,0.1,81.0,3.54,Credit Card,8,Pending
+ORD100371,2025-05-03,CUST1135,Laptop Stand,Accessories,North,4,35,0.05,133.0,34.28,Debit Card,8,Shipped
+ORD100372,2025-08-30,CUST1286,USB-C Hub,Accessories,West,1,45,0.05,42.75,0.29,Credit Card,3,Completed
+ORD100373,2025-05-30,CUST1063,Office Chair,Furniture,North,2,180,0.1,324.0,91.12,UPI,9,Completed
+ORD100374,2025-05-17,CUST1171,Desk Lamp,Furniture,West,4,40,0.0,160.0,13.24,Net Banking,10,Completed
+ORD100375,2025-11-20,CUST1021,Wireless Mouse,Accessories,North,3,22,0.05,62.7,2.47,Credit Card,7,Completed
+ORD100376,2025-02-04,CUST1089,USB-C Hub,Accessories,South,2,45,0.1,81.0,13.2,UPI,10,Completed
+ORD100377,2025-09-26,CUST1173,Webcam,Electronics,West,3,65,0.05,185.25,5.41,Cash on Delivery,9,Shipped
+ORD100378,2025-09-30,CUST1147,Office Chair,Furniture,West,5,180,0.15,765.0,227.69,UPI,7,Completed
+ORD100379,2025-05-19,CUST1283,Wireless Mouse,Accessories,West,2,22,0.05,41.8,3.99,Cash on Delivery,5,Cancelled
+ORD100380,2025-04-06,CUST1185,Headphones,Electronics,West,1,90,0.2,72.0,21.95,Debit Card,9,Shipped
+ORD100381,2025-01-02,CUST1124,Mechanical Keyboard,Accessories,North,2,75,0.15,127.5,13.55,Net Banking,2,Completed
+ORD100382,2025-12-08,CUST1129,Mechanical Keyboard,Accessories,Central,5,75,0.2,300.0,70.56,Net Banking,6,Completed
+ORD100383,2025-12-12,CUST1184,Webcam,Electronics,South,4,65,0.15,221.0,53.01,UPI,9,Shipped
+ORD100384,2025-03-29,CUST1238,Monitor,Electronics,North,5,210,0.0,1050.0,204.7,Debit Card,10,Completed
+ORD100385,2025-01-12,CUST1083,Headphones,Electronics,Central,5,90,0.1,405.0,38.66,UPI,3,Completed
+ORD100386,2025-02-14,CUST1176,USB-C Hub,Accessories,North,1,45,0.0,45.0,7.92,Debit Card,1,Cancelled
+ORD100387,2025-01-25,CUST1173,Desk Lamp,Furniture,East,2,40,0.15,68.0,10.35,Credit Card,4,Completed
+ORD100388,2025-10-31,CUST1003,Laptop Stand,Accessories,East,1,35,0.1,31.5,6.01,UPI,9,Completed
+ORD100389,2025-11-22,CUST1274,Desk Lamp,Furniture,West,1,40,0.05,38.0,4.47,UPI,6,Completed
+ORD100390,2025-02-25,CUST1171,Laptop Stand,Accessories,North,5,35,0.2,140.0,2.55,UPI,1,Completed
+ORD100391,2025-09-30,CUST1073,Office Chair,Furniture,North,5,180,0.0,900.0,97.16,UPI,2,Completed
+ORD100392,2025-03-07,CUST1191,USB-C Hub,Accessories,East,1,45,0.1,40.5,8.04,UPI,4,Pending
+ORD100393,2025-05-15,CUST1204,USB-C Hub,Accessories,East,4,45,0.1,162.0,39.16,Net Banking,4,Cancelled
+ORD100394,2025-08-07,CUST1275,Laptop Stand,Accessories,West,3,35,0.0,105.0,6.68,Credit Card,2,Shipped
+ORD100395,2025-09-20,CUST1011,Office Chair,Furniture,West,1,180,0.1,162.0,40.9,Cash on Delivery,5,Pending
+ORD100396,2025-11-16,CUST1125,Wireless Mouse,Accessories,North,5,22,0.15,93.5,8.72,Cash on Delivery,5,Shipped
+ORD100397,2025-01-17,CUST1055,Headphones,Electronics,Central,5,90,0.0,450.0,35.38,Debit Card,2,Shipped
+ORD100398,2025-03-13,CUST1173,Office Chair,Furniture,East,3,180,0.1,486.0,49.55,Credit Card,3,Completed
+ORD100399,2025-04-13,CUST1151,Desk Lamp,Furniture,Central,4,40,0.05,152.0,32.1,Cash on Delivery,7,Completed
+ORD100400,2025-04-24,CUST1143,Office Chair,Furniture,Central,2,180,0.1,324.0,73.13,Debit Card,10,Completed
+ORD100401,2025-12-31,CUST1295,USB-C Hub,Accessories,North,4,45,0.0,180.0,7.4,Debit Card,10,Cancelled
+ORD100402,2025-10-11,CUST1160,Office Chair,Furniture,East,3,180,0.2,432.0,110.0,Net Banking,6,Completed
+ORD100403,2025-04-27,CUST1124,Desk Lamp,Furniture,East,5,40,0.15,170.0,15.22,Credit Card,1,Pending
+ORD100404,2025-12-21,CUST1021,USB-C Hub,Accessories,East,1,45,0.0,45.0,10.79,Credit Card,9,Completed
+ORD100405,2025-07-02,CUST1087,Wireless Mouse,Accessories,South,1,22,0.05,20.9,3.28,Cash on Delivery,10,Completed
+ORD100406,2025-07-02,CUST1270,Desk Lamp,Furniture,East,5,40,0.1,180.0,43.06,Credit Card,3,Completed
+ORD100407,2025-06-08,CUST1136,Wireless Mouse,Accessories,East,2,22,0.1,39.6,1.21,Cash on Delivery,5,Completed
+ORD100408,2025-02-22,CUST1274,Webcam,Electronics,North,2,65,0.05,123.5,15.6,UPI,1,Cancelled
+ORD100409,2025-12-08,CUST1160,Mechanical Keyboard,Accessories,South,4,75,0.0,300.0,58.73,UPI,9,Completed
+ORD100410,2025-01-06,CUST1165,Wireless Mouse,Accessories,North,1,22,0.0,22.0,-1.6,Credit Card,8,Shipped
+ORD100411,2025-03-05,CUST1129,Office Chair,Furniture,Central,3,180,0.2,432.0,92.5,UPI,1,Shipped
+ORD100412,2025-03-25,CUST1167,Wireless Mouse,Accessories,West,2,22,0.1,39.6,2.01,Net Banking,8,Completed
+ORD100413,2025-04-12,CUST1021,Headphones,Electronics,South,1,90,0.15,76.5,12.8,UPI,5,Cancelled
+ORD100414,2025-02-18,CUST1018,Headphones,Electronics,South,5,90,0.1,405.0,28.35,Debit Card,6,Completed
+ORD100415,2025-01-07,CUST1143,Laptop Stand,Accessories,North,1,35,0.2,28.0,2.96,UPI,3,Completed
+ORD100416,2025-09-05,CUST1180,Wireless Mouse,Accessories,South,1,22,0.0,22.0,1.84,Net Banking,9,Pending
+ORD100417,2025-12-20,CUST1166,Office Chair,Furniture,Central,4,180,0.0,720.0,162.57,Credit Card,5,Shipped
+ORD100418,2025-02-14,CUST1129,Webcam,Electronics,North,5,65,0.2,260.0,58.91,UPI,9,Completed
+ORD100419,2025-04-19,CUST1089,Wireless Mouse,Accessories,North,1,22,0.2,17.6,-0.14,UPI,2,Cancelled
+ORD100420,2025-07-04,CUST1213,Smartphone Case,Mobile,Central,4,18,0.05,68.4,11.24,Credit Card,6,Completed
+ORD100421,2025-12-05,CUST1182,Mechanical Keyboard,Accessories,East,3,75,0.05,213.75,58.67,Net Banking,4,Completed
+ORD100422,2025-09-11,CUST1015,Laptop Stand,Accessories,North,5,35,0.1,157.5,6.77,Net Banking,10,Completed
+ORD100423,2025-10-07,CUST1136,Smartphone Case,Mobile,East,1,18,0.05,17.1,1.52,UPI,6,Completed
+ORD100424,2025-08-01,CUST1214,Laptop Stand,Accessories,West,5,35,0.0,175.0,12.92,Credit Card,8,Pending
+ORD100425,2025-06-02,CUST1236,Webcam,Electronics,South,4,65,0.15,221.0,24.11,UPI,1,Shipped
+ORD100426,2025-03-14,CUST1087,Smartphone Case,Mobile,South,5,18,0.05,85.5,5.23,Credit Card,7,Shipped
+ORD100427,2025-11-12,CUST1278,Webcam,Electronics,West,2,65,0.1,117.0,4.99,Credit Card,2,Cancelled
+ORD100428,2025-10-21,CUST1196,Webcam,Electronics,East,5,65,0.0,325.0,87.9,UPI,4,Completed
+ORD100429,2025-01-10,CUST1132,USB-C Hub,Accessories,Central,4,45,0.0,180.0,51.21,Debit Card,3,Shipped
+ORD100430,2025-09-19,CUST1189,Wireless Mouse,Accessories,South,1,22,0.1,19.8,4.43,Cash on Delivery,1,Completed
+ORD100431,2025-01-31,CUST1262,Webcam,Electronics,South,5,65,0.05,308.75,60.92,UPI,6,Cancelled
+ORD100432,2025-09-27,CUST1069,Desk Lamp,Furniture,North,4,40,0.1,144.0,23.64,UPI,3,Shipped
+ORD100433,2025-10-29,CUST1046,Laptop Stand,Accessories,West,2,35,0.0,70.0,19.53,UPI,6,Pending
+ORD100434,2025-02-17,CUST1133,Desk Lamp,Furniture,East,3,40,0.2,96.0,10.14,UPI,8,Completed
+ORD100435,2025-06-08,CUST1026,Monitor,Electronics,South,2,210,0.1,378.0,31.94,UPI,2,Completed
+ORD100436,2025-02-15,CUST1251,Webcam,Electronics,West,3,65,0.15,165.75,34.98,Debit Card,8,Shipped
+ORD100437,2025-07-27,CUST1292,Wireless Mouse,Accessories,South,5,22,0.0,110.0,10.67,UPI,3,Pending
+ORD100438,2025-12-05,CUST1182,Headphones,Electronics,North,5,90,0.05,427.5,53.48,Debit Card,4,Completed
+ORD100439,2025-01-30,CUST1294,Wireless Mouse,Accessories,East,2,22,0.05,41.8,2.01,Cash on Delivery,6,Cancelled
+ORD100440,2025-05-26,CUST1021,Mechanical Keyboard,Accessories,East,5,75,0.1,337.5,70.88,Net Banking,7,Pending
+ORD100441,2025-12-22,CUST1190,Office Chair,Furniture,East,3,180,0.05,513.0,71.14,Debit Card,7,Completed
+ORD100442,2025-04-20,CUST1133,Laptop Stand,Accessories,East,4,35,0.0,140.0,17.5,UPI,2,Cancelled
+ORD100443,2025-02-18,CUST1084,Monitor,Electronics,Central,4,210,0.05,798.0,64.0,UPI,6,Completed
+ORD100444,2025-06-28,CUST1094,Webcam,Electronics,South,3,65,0.05,185.25,30.55,UPI,3,Shipped
+ORD100445,2025-07-05,CUST1164,Wireless Mouse,Accessories,South,3,22,0.05,62.7,14.97,Net Banking,3,Completed
+ORD100446,2025-08-30,CUST1193,Mechanical Keyboard,Accessories,East,3,75,0.0,225.0,24.24,Net Banking,10,Completed
+ORD100447,2025-04-25,CUST1050,USB-C Hub,Accessories,North,5,45,0.05,213.75,33.57,Credit Card,2,Shipped
+ORD100448,2025-12-15,CUST1185,Headphones,Electronics,North,2,90,0.1,162.0,40.65,UPI,5,Shipped
+ORD100449,2025-07-10,CUST1278,Smartphone Case,Mobile,East,2,18,0.05,34.2,2.95,Credit Card,5,Shipped
+ORD100450,2025-04-15,CUST1004,Desk Lamp,Furniture,East,2,40,0.05,76.0,17.36,UPI,3,Completed
+ORD100451,2025-12-17,CUST1264,Wireless Mouse,Accessories,West,1,22,0.1,19.8,1.49,Net Banking,8,Pending
+ORD100452,2025-12-04,CUST1183,Laptop Stand,Accessories,North,2,35,0.15,59.5,6.32,UPI,5,Completed
+ORD100453,2025-07-02,CUST1103,Laptop Stand,Accessories,Central,1,35,0.05,33.25,2.16,Credit Card,8,Pending
+ORD100454,2025-01-10,CUST1221,Webcam,Electronics,East,1,65,0.1,58.5,4.67,Credit Card,4,Completed
+ORD100455,2025-08-06,CUST1186,Wireless Mouse,Accessories,North,4,22,0.2,70.4,15.71,UPI,9,Shipped
+ORD100456,2025-07-22,CUST1231,Mechanical Keyboard,Accessories,South,1,75,0.1,67.5,14.59,Credit Card,8,Cancelled
+ORD100457,2025-02-24,CUST1025,Desk Lamp,Furniture,South,3,40,0.2,96.0,18.7,Cash on Delivery,4,Completed
+ORD100458,2025-08-20,CUST1018,Desk Lamp,Furniture,East,4,40,0.15,136.0,38.61,UPI,10,Completed
+ORD100459,2025-11-03,CUST1193,Desk Lamp,Furniture,East,4,40,0.0,160.0,4.4,Credit Card,9,Pending
+ORD100460,2025-02-08,CUST1092,Mechanical Keyboard,Accessories,East,3,75,0.05,213.75,55.85,Credit Card,6,Cancelled
+ORD100461,2025-09-22,CUST1072,Headphones,Electronics,East,1,90,0.1,81.0,12.51,UPI,1,Completed
+ORD100462,2025-02-21,CUST1127,Headphones,Electronics,Central,5,90,0.2,360.0,78.69,UPI,6,Completed
+ORD100463,2025-10-01,CUST1218,Wireless Mouse,Accessories,Central,5,22,0.1,99.0,-1.02,UPI,7,Completed
+ORD100464,2025-06-02,CUST1054,Webcam,Electronics,East,4,65,0.0,260.0,37.45,UPI,4,Completed
+ORD100465,2025-01-03,CUST1292,Webcam,Electronics,Central,1,65,0.1,58.5,12.91,Credit Card,2,Completed
+ORD100466,2025-12-19,CUST1127,USB-C Hub,Accessories,Central,1,45,0.0,45.0,10.53,Cash on Delivery,6,Completed
+ORD100467,2025-03-02,CUST1046,Office Chair,Furniture,Central,2,180,0.15,306.0,63.5,Debit Card,9,Cancelled
+ORD100468,2025-08-06,CUST1022,Headphones,Electronics,South,1,90,0.1,81.0,10.98,Net Banking,4,Shipped
+ORD100469,2025-03-08,CUST1258,Webcam,Electronics,East,5,65,0.1,292.5,27.69,Credit Card,5,Completed
+ORD100470,2025-12-07,CUST1034,Office Chair,Furniture,South,2,180,0.15,306.0,93.29,Debit Card,1,Completed
+ORD100471,2025-09-27,CUST1126,Office Chair,Furniture,North,2,180,0.1,324.0,58.81,Debit Card,8,Completed
+ORD100472,2025-10-21,CUST1201,Webcam,Electronics,North,5,65,0.1,292.5,48.66,UPI,9,Completed
+ORD100473,2025-06-07,CUST1154,Mechanical Keyboard,Accessories,West,5,75,0.15,318.75,67.06,UPI,8,Shipped
+ORD100474,2025-06-20,CUST1079,Office Chair,Furniture,East,2,180,0.15,306.0,52.3,Credit Card,5,Completed
+ORD100475,2025-08-20,CUST1033,Office Chair,Furniture,Central,2,180,0.15,306.0,59.79,Cash on Delivery,1,Pending
+ORD100476,2025-10-14,CUST1214,Smartphone Case,Mobile,West,3,18,0.0,54.0,8.22,Credit Card,5,Completed
+ORD100477,2025-11-06,CUST1148,Wireless Mouse,Accessories,North,4,22,0.1,79.2,20.27,UPI,10,Completed
+ORD100478,2025-01-07,CUST1015,Monitor,Electronics,Central,5,210,0.05,997.5,294.78,Net Banking,1,Completed
+ORD100479,2025-08-31,CUST1055,Smartphone Case,Mobile,East,5,18,0.15,76.5,21.68,UPI,3,Completed
+ORD100480,2025-02-09,CUST1169,Webcam,Electronics,East,5,65,0.1,292.5,45.52,Net Banking,9,Completed
+ORD100481,2025-04-16,CUST1051,Smartphone Case,Mobile,Central,1,18,0.05,17.1,-0.59,Cash on Delivery,6,Completed
+ORD100482,2025-10-30,CUST1118,Laptop Stand,Accessories,West,2,35,0.0,70.0,17.08,Cash on Delivery,2,Completed
+ORD100483,2025-04-02,CUST1038,Laptop Stand,Accessories,North,3,35,0.05,99.75,18.93,Cash on Delivery,1,Completed
+ORD100484,2025-10-18,CUST1240,Office Chair,Furniture,North,1,180,0.1,162.0,31.9,UPI,5,Cancelled
+ORD100485,2025-06-18,CUST1190,USB-C Hub,Accessories,East,2,45,0.05,85.5,13.23,Debit Card,6,Completed
+ORD100486,2025-03-26,CUST1236,Webcam,Electronics,North,1,65,0.0,65.0,15.5,Debit Card,9,Completed
+ORD100487,2025-05-02,CUST1016,Monitor,Electronics,North,5,210,0.15,892.5,210.57,Debit Card,9,Completed
+ORD100488,2025-07-13,CUST1113,Monitor,Electronics,West,1,210,0.15,178.5,44.43,UPI,5,Completed
+ORD100489,2025-10-07,CUST1081,Smartphone Case,Mobile,North,1,18,0.0,18.0,-1.08,UPI,5,Completed
+ORD100490,2025-08-10,CUST1187,Laptop Stand,Accessories,North,1,35,0.05,33.25,3.72,UPI,10,Completed
+ORD100491,2025-12-07,CUST1247,Office Chair,Furniture,East,1,180,0.2,144.0,29.96,Credit Card,8,Cancelled
+ORD100492,2025-11-13,CUST1069,Desk Lamp,Furniture,North,3,40,0.1,108.0,5.77,Credit Card,3,Completed
+ORD100493,2025-10-02,CUST1231,Headphones,Electronics,South,2,90,0.1,162.0,40.42,Cash on Delivery,7,Shipped
+ORD100494,2025-08-09,CUST1175,USB-C Hub,Accessories,Central,5,45,0.05,213.75,31.3,Debit Card,8,Shipped
+ORD100495,2025-04-16,CUST1248,Wireless Mouse,Accessories,West,2,22,0.05,41.8,1.44,Debit Card,3,Completed
+ORD100496,2025-05-31,CUST1025,Headphones,Electronics,Central,3,90,0.0,270.0,66.48,UPI,10,Completed
+ORD100497,2025-02-13,CUST1298,Monitor,Electronics,South,4,210,0.1,756.0,184.18,Credit Card,3,Completed
+ORD100498,2025-05-17,CUST1131,Wireless Mouse,Accessories,West,4,22,0.0,88.0,15.4,UPI,6,Completed
+ORD100499,2025-12-05,CUST1085,USB-C Hub,Accessories,South,4,45,0.0,180.0,22.94,UPI,5,Completed
+ORD100500,2025-06-05,CUST1055,Smartphone Case,Mobile,South,2,18,0.1,32.4,3.03,UPI,7,Shipped
+ORD100501,2025-02-11,CUST1296,Mechanical Keyboard,Accessories,North,3,75,0.2,180.0,20.56,UPI,10,Completed
+ORD100502,2025-08-26,CUST1266,Wireless Mouse,Accessories,Central,5,22,0.15,93.5,11.39,UPI,4,Completed
+ORD100503,2025-12-18,CUST1040,Headphones,Electronics,North,5,90,0.1,405.0,25.62,Credit Card,4,Shipped
+ORD100504,2025-11-13,CUST1134,Wireless Mouse,Accessories,South,4,22,0.1,79.2,12.62,UPI,8,Cancelled
+ORD100505,2025-04-11,CUST1221,Smartphone Case,Mobile,East,4,18,0.05,68.4,15.12,UPI,10,Cancelled
+ORD100506,2025-06-15,CUST1178,Desk Lamp,Furniture,East,5,40,0.05,190.0,35.12,UPI,10,Cancelled
+ORD100507,2025-07-13,CUST1057,Smartphone Case,Mobile,South,4,18,0.1,64.8,11.52,Debit Card,8,Completed
+ORD100508,2025-04-01,CUST1109,Smartphone Case,Mobile,South,5,18,0.05,85.5,14.9,Credit Card,8,Completed
+ORD100509,2025-04-09,CUST1111,Mechanical Keyboard,Accessories,South,1,75,0.1,67.5,15.77,UPI,8,Completed
+ORD100510,2025-03-28,CUST1087,Mechanical Keyboard,Accessories,Central,2,75,0.15,127.5,15.94,UPI,10,Completed
+ORD100511,2025-12-30,CUST1289,USB-C Hub,Accessories,East,1,45,0.2,36.0,7.99,Net Banking,1,Completed
+ORD100512,2025-09-30,CUST1061,Monitor,Electronics,Central,1,210,0.0,210.0,51.46,Credit Card,6,Completed
+ORD100513,2025-11-03,CUST1212,Desk Lamp,Furniture,Central,3,40,0.05,114.0,28.81,Debit Card,1,Completed
+ORD100514,2025-10-26,CUST1274,Office Chair,Furniture,West,2,180,0.0,360.0,105.51,Credit Card,6,Completed
+ORD100515,2025-12-17,CUST1239,Headphones,Electronics,Central,3,90,0.05,256.5,70.28,Cash on Delivery,4,Shipped
+ORD100516,2025-02-08,CUST1240,Desk Lamp,Furniture,North,3,40,0.05,114.0,27.46,Cash on Delivery,4,Completed
+ORD100517,2025-11-18,CUST1048,Headphones,Electronics,Central,4,90,0.0,360.0,75.94,Credit Card,9,Completed
+ORD100518,2025-01-25,CUST1040,USB-C Hub,Accessories,East,5,45,0.15,191.25,11.4,Debit Card,8,Completed
+ORD100519,2025-06-23,CUST1235,Monitor,Electronics,West,5,210,0.1,945.0,188.7,UPI,6,Pending
+ORD100520,2025-08-05,CUST1225,Webcam,Electronics,South,2,65,0.2,104.0,26.23,Debit Card,9,Completed
+ORD100521,2025-05-11,CUST1223,Laptop Stand,Accessories,North,2,35,0.0,70.0,10.78,Credit Card,1,Completed
+ORD100522,2025-02-23,CUST1126,Office Chair,Furniture,Central,4,180,0.0,720.0,198.94,UPI,7,Completed
+ORD100523,2025-03-12,CUST1158,Headphones,Electronics,East,1,90,0.05,85.5,8.02,Net Banking,2,Completed
+ORD100524,2025-10-29,CUST1005,Office Chair,Furniture,North,3,180,0.0,540.0,85.22,Cash on Delivery,3,Completed
+ORD100525,2025-04-27,CUST1088,Webcam,Electronics,West,3,65,0.05,185.25,36.47,UPI,2,Cancelled
+ORD100526,2025-04-24,CUST1159,Office Chair,Furniture,North,1,180,0.2,144.0,25.11,Net Banking,6,Cancelled
+ORD100527,2025-12-04,CUST1038,Smartphone Case,Mobile,East,4,18,0.05,68.4,-5.61,UPI,7,Completed
+ORD100528,2025-02-22,CUST1040,Webcam,Electronics,West,2,65,0.0,130.0,13.12,Credit Card,8,Cancelled
+ORD100529,2025-12-01,CUST1014,Monitor,Electronics,West,1,210,0.1,189.0,50.69,Cash on Delivery,5,Pending
+ORD100530,2025-12-03,CUST1063,Wireless Mouse,Accessories,East,4,22,0.1,79.2,8.98,UPI,10,Completed
+ORD100531,2025-08-07,CUST1298,Office Chair,Furniture,South,1,180,0.1,162.0,13.59,Credit Card,4,Completed
+ORD100532,2025-03-02,CUST1209,Smartphone Case,Mobile,Central,4,18,0.05,68.4,-8.92,Debit Card,2,Shipped
+ORD100533,2025-02-26,CUST1285,Headphones,Electronics,North,1,90,0.15,76.5,13.44,UPI,1,Completed
+ORD100534,2025-04-14,CUST1078,Desk Lamp,Furniture,North,3,40,0.0,120.0,11.49,Credit Card,2,Completed
+ORD100535,2025-07-30,CUST1180,Desk Lamp,Furniture,North,5,40,0.05,190.0,29.17,UPI,5,Completed
+ORD100536,2025-02-26,CUST1268,Office Chair,Furniture,Central,2,180,0.1,324.0,81.8,Debit Card,5,Shipped
+ORD100537,2025-06-16,CUST1106,Webcam,Electronics,East,4,65,0.15,221.0,18.88,UPI,9,Completed
+ORD100538,2025-02-12,CUST1198,Laptop Stand,Accessories,North,4,35,0.05,133.0,28.75,UPI,2,Shipped
+ORD100539,2025-07-17,CUST1208,Laptop Stand,Accessories,North,5,35,0.1,157.5,15.81,Debit Card,3,Completed
+ORD100540,2025-01-08,CUST1250,Mechanical Keyboard,Accessories,North,1,75,0.0,75.0,8.91,UPI,10,Cancelled
+ORD100541,2025-09-16,CUST1291,Monitor,Electronics,Central,4,210,0.0,840.0,243.03,Credit Card,1,Completed
+ORD100542,2025-01-21,CUST1185,Office Chair,Furniture,East,5,180,0.0,900.0,185.01,Debit Card,5,Completed
+ORD100543,2025-03-13,CUST1175,Monitor,Electronics,North,4,210,0.1,756.0,208.75,Debit Card,2,Completed
+ORD100544,2025-03-05,CUST1261,Laptop Stand,Accessories,South,1,35,0.05,33.25,3.31,UPI,6,Completed
+ORD100545,2025-10-31,CUST1206,Mechanical Keyboard,Accessories,West,5,75,0.1,337.5,52.3,Cash on Delivery,10,Shipped
+ORD100546,2025-01-20,CUST1109,Smartphone Case,Mobile,East,1,18,0.0,18.0,3.33,Debit Card,3,Cancelled
+ORD100547,2025-06-06,CUST1190,Smartphone Case,Mobile,Central,3,18,0.15,45.9,3.64,UPI,4,Completed
+ORD100548,2025-08-04,CUST1165,USB-C Hub,Accessories,North,3,45,0.15,114.75,29.25,Debit Card,5,Completed
+ORD100549,2025-07-08,CUST1069,Desk Lamp,Furniture,North,3,40,0.0,120.0,2.47,Debit Card,8,Completed
+ORD100550,2025-09-06,CUST1155,Office Chair,Furniture,North,3,180,0.0,540.0,152.29,Debit Card,10,Completed
+ORD100551,2025-10-21,CUST1188,Smartphone Case,Mobile,South,1,18,0.0,18.0,4.38,Credit Card,1,Completed
+ORD100552,2025-05-24,CUST1272,Desk Lamp,Furniture,West,3,40,0.15,102.0,15.34,Debit Card,5,Pending
+ORD100553,2025-10-30,CUST1175,Headphones,Electronics,West,5,90,0.05,427.5,62.22,Net Banking,8,Completed
+ORD100554,2025-04-27,CUST1050,USB-C Hub,Accessories,South,3,45,0.1,121.5,19.07,Credit Card,1,Pending
+ORD100555,2025-12-26,CUST1297,Headphones,Electronics,West,2,90,0.05,171.0,18.29,Cash on Delivery,9,Completed
+ORD100556,2025-07-04,CUST1174,USB-C Hub,Accessories,West,5,45,0.15,191.25,41.08,Debit Card,3,Shipped
+ORD100557,2025-09-26,CUST1087,USB-C Hub,Accessories,North,1,45,0.1,40.5,6.42,Cash on Delivery,6,Pending
+ORD100558,2025-11-16,CUST1227,Headphones,Electronics,West,3,90,0.1,243.0,61.56,Net Banking,10,Pending
+ORD100559,2025-10-17,CUST1116,Webcam,Electronics,East,3,65,0.2,156.0,35.01,UPI,7,Shipped
+ORD100560,2025-11-07,CUST1112,Webcam,Electronics,North,3,65,0.0,195.0,28.48,UPI,10,Shipped
+ORD100561,2025-07-15,CUST1252,USB-C Hub,Accessories,South,5,45,0.15,191.25,37.9,Credit Card,7,Completed
+ORD100562,2025-01-16,CUST1261,Monitor,Electronics,West,3,210,0.0,630.0,120.55,Credit Card,3,Completed
+ORD100563,2025-06-29,CUST1158,Laptop Stand,Accessories,West,5,35,0.1,157.5,28.35,Credit Card,7,Completed
+ORD100564,2025-03-08,CUST1112,Headphones,Electronics,South,1,90,0.15,76.5,7.48,Cash on Delivery,7,Shipped
+ORD100565,2025-11-21,CUST1259,Webcam,Electronics,West,4,65,0.1,234.0,66.37,Net Banking,4,Shipped
+ORD100566,2025-03-28,CUST1052,Smartphone Case,Mobile,South,3,18,0.1,48.6,10.09,Credit Card,1,Pending
+ORD100567,2025-03-25,CUST1225,Webcam,Electronics,East,2,65,0.05,123.5,30.12,Debit Card,7,Completed
+ORD100568,2025-04-02,CUST1176,Monitor,Electronics,North,2,210,0.05,399.0,73.61,UPI,6,Cancelled
+ORD100569,2025-08-23,CUST1257,Laptop Stand,Accessories,Central,4,35,0.05,133.0,33.93,Credit Card,8,Completed
+ORD100570,2025-07-28,CUST1127,Wireless Mouse,Accessories,Central,4,22,0.1,79.2,0.82,UPI,2,Completed
+ORD100571,2025-12-13,CUST1250,USB-C Hub,Accessories,North,4,45,0.1,162.0,32.28,Credit Card,6,Pending
+ORD100572,2025-06-01,CUST1005,USB-C Hub,Accessories,East,1,45,0.05,42.75,3.27,Credit Card,9,Completed
+ORD100573,2025-04-14,CUST1228,USB-C Hub,Accessories,West,3,45,0.05,128.25,19.66,Debit Card,9,Completed
+ORD100574,2025-01-18,CUST1021,USB-C Hub,Accessories,East,5,45,0.05,213.75,31.03,Debit Card,10,Pending
+ORD100575,2025-01-03,CUST1193,Office Chair,Furniture,South,1,180,0.05,171.0,26.88,Credit Card,3,Pending
+ORD100576,2025-05-17,CUST1059,Wireless Mouse,Accessories,Central,3,22,0.0,66.0,10.51,UPI,2,Completed
+ORD100577,2025-12-04,CUST1290,USB-C Hub,Accessories,South,3,45,0.15,114.75,26.6,UPI,6,Completed
+ORD100578,2025-07-11,CUST1231,Wireless Mouse,Accessories,South,5,22,0.1,99.0,12.38,Net Banking,5,Completed
+ORD100579,2025-11-23,CUST1032,USB-C Hub,Accessories,South,2,45,0.0,90.0,21.09,Net Banking,3,Completed
+ORD100580,2025-02-07,CUST1268,Headphones,Electronics,Central,3,90,0.1,243.0,15.87,UPI,2,Pending
+ORD100581,2025-02-04,CUST1076,Laptop Stand,Accessories,East,4,35,0.15,119.0,26.45,UPI,2,Pending
+ORD100582,2025-11-01,CUST1164,USB-C Hub,Accessories,West,1,45,0.05,42.75,7.56,Credit Card,4,Completed
+ORD100583,2025-02-08,CUST1026,Laptop Stand,Accessories,Central,5,35,0.0,175.0,12.55,Debit Card,8,Completed
+ORD100584,2025-01-19,CUST1032,Smartphone Case,Mobile,Central,5,18,0.0,90.0,11.1,Credit Card,1,Completed
+ORD100585,2025-05-28,CUST1073,Office Chair,Furniture,Central,4,180,0.0,720.0,200.26,UPI,2,Completed
+ORD100586,2025-12-04,CUST1161,Mechanical Keyboard,Accessories,Central,4,75,0.15,255.0,55.52,Credit Card,3,Completed
+ORD100587,2025-09-09,CUST1163,Wireless Mouse,Accessories,Central,4,22,0.2,70.4,7.13,UPI,9,Shipped
+ORD100588,2025-02-06,CUST1257,Laptop Stand,Accessories,Central,4,35,0.0,140.0,15.48,UPI,10,Completed
+ORD100589,2025-11-02,CUST1050,Monitor,Electronics,West,5,210,0.1,945.0,249.62,UPI,5,Completed
+ORD100590,2025-11-04,CUST1225,Office Chair,Furniture,North,3,180,0.0,540.0,72.91,Debit Card,1,Pending
+ORD100591,2025-10-20,CUST1002,Webcam,Electronics,North,3,65,0.1,175.5,42.01,Credit Card,1,Shipped
+ORD100592,2025-11-26,CUST1088,Desk Lamp,Furniture,West,4,40,0.15,136.0,21.32,UPI,9,Completed
+ORD100593,2025-03-29,CUST1053,USB-C Hub,Accessories,South,1,45,0.05,42.75,10.59,Credit Card,5,Completed
+ORD100594,2025-12-24,CUST1038,Mechanical Keyboard,Accessories,Central,5,75,0.0,375.0,18.7,Credit Card,1,Completed
+ORD100595,2025-04-28,CUST1176,Monitor,Electronics,Central,4,210,0.1,756.0,63.48,Cash on Delivery,9,Completed
+ORD100596,2025-10-20,CUST1271,Mechanical Keyboard,Accessories,West,4,75,0.2,240.0,73.76,Net Banking,6,Completed
+ORD100597,2025-07-31,CUST1201,Smartphone Case,Mobile,West,2,18,0.05,34.2,8.37,UPI,4,Completed
+ORD100598,2025-10-12,CUST1257,Wireless Mouse,Accessories,South,2,22,0.0,44.0,9.01,Cash on Delivery,5,Completed
+ORD100599,2025-08-18,CUST1178,Monitor,Electronics,East,3,210,0.0,630.0,184.12,Debit Card,3,Completed
+ORD100600,2025-08-23,CUST1017,Webcam,Electronics,Central,4,65,0.1,234.0,31.21,Debit Card,10,Completed
+ORD100601,2025-08-13,CUST1104,Laptop Stand,Accessories,Central,4,35,0.1,126.0,11.76,Credit Card,8,Completed
+ORD100602,2025-10-12,CUST1248,Monitor,Electronics,South,4,210,0.15,714.0,76.06,UPI,2,Completed
+ORD100603,2025-09-27,CUST1014,Monitor,Electronics,Central,5,210,0.15,892.5,177.84,UPI,8,Completed
+ORD100604,2025-02-19,CUST1030,Mechanical Keyboard,Accessories,East,5,75,0.15,318.75,33.08,Net Banking,2,Completed
+ORD100605,2025-10-29,CUST1251,Wireless Mouse,Accessories,Central,4,22,0.15,74.8,9.74,Debit Card,5,Completed
+ORD100606,2025-07-15,CUST1019,Laptop Stand,Accessories,East,2,35,0.05,66.5,-0.45,Credit Card,8,Completed
+ORD100607,2025-04-28,CUST1288,Laptop Stand,Accessories,West,3,35,0.1,94.5,5.9,Credit Card,1,Shipped
+ORD100608,2025-07-07,CUST1228,Monitor,Electronics,North,3,210,0.05,598.5,76.15,UPI,8,Completed
+ORD100609,2025-12-19,CUST1200,Laptop Stand,Accessories,South,4,35,0.05,133.0,10.01,UPI,3,Completed
+ORD100610,2025-11-10,CUST1161,Smartphone Case,Mobile,West,5,18,0.2,72.0,-1.92,Debit Card,7,Completed
+ORD100611,2025-11-01,CUST1027,Mechanical Keyboard,Accessories,Central,2,75,0.1,135.0,27.92,Credit Card,5,Completed
+ORD100612,2025-06-18,CUST1125,Headphones,Electronics,North,3,90,0.2,216.0,26.09,Cash on Delivery,1,Completed
+ORD100613,2025-10-14,CUST1243,Headphones,Electronics,North,1,90,0.05,85.5,17.43,Debit Card,8,Shipped
+ORD100614,2025-05-21,CUST1272,Monitor,Electronics,West,4,210,0.1,756.0,206.96,Debit Card,3,Completed
+ORD100615,2025-09-08,CUST1135,Desk Lamp,Furniture,East,3,40,0.1,108.0,19.12,Cash on Delivery,10,Completed
+ORD100616,2025-08-22,CUST1252,Wireless Mouse,Accessories,Central,3,22,0.0,66.0,16.09,UPI,9,Completed
+ORD100617,2025-04-02,CUST1233,Mechanical Keyboard,Accessories,North,3,75,0.05,213.75,33.01,Debit Card,2,Shipped
+ORD100618,2025-04-08,CUST1018,Mechanical Keyboard,Accessories,South,2,75,0.1,135.0,11.97,Debit Card,7,Completed
+ORD100619,2025-01-23,CUST1187,Wireless Mouse,Accessories,North,3,22,0.0,66.0,3.87,UPI,4,Completed
+ORD100620,2025-02-21,CUST1185,Mechanical Keyboard,Accessories,West,4,75,0.2,240.0,65.9,UPI,7,Completed
+ORD100621,2025-06-08,CUST1163,USB-C Hub,Accessories,Central,2,45,0.0,90.0,14.91,UPI,6,Shipped
+ORD100622,2025-06-24,CUST1232,Office Chair,Furniture,North,1,180,0.0,180.0,25.29,UPI,3,Pending
+ORD100623,2025-03-02,CUST1267,USB-C Hub,Accessories,South,2,45,0.15,76.5,9.08,Credit Card,7,Completed
+ORD100624,2025-06-02,CUST1166,Desk Lamp,Furniture,Central,1,40,0.0,40.0,8.4,UPI,3,Completed
+ORD100625,2025-08-09,CUST1097,Office Chair,Furniture,North,2,180,0.2,288.0,65.95,Debit Card,10,Completed
+ORD100626,2025-03-26,CUST1295,Smartphone Case,Mobile,Central,4,18,0.1,64.8,7.47,UPI,10,Pending
+ORD100627,2025-05-04,CUST1290,Wireless Mouse,Accessories,Central,1,22,0.0,22.0,5.72,UPI,2,Completed
+ORD100628,2025-05-15,CUST1206,Smartphone Case,Mobile,North,4,18,0.1,64.8,9.02,UPI,8,Pending
+ORD100629,2025-07-04,CUST1193,Headphones,Electronics,North,2,90,0.1,162.0,31.65,UPI,10,Completed
+ORD100630,2025-05-14,CUST1032,Smartphone Case,Mobile,West,5,18,0.15,76.5,-8.58,Net Banking,2,Completed
+ORD100631,2025-09-26,CUST1121,USB-C Hub,Accessories,North,4,45,0.15,153.0,6.65,UPI,8,Shipped
+ORD100632,2025-04-30,CUST1060,Smartphone Case,Mobile,East,2,18,0.1,32.4,7.7,UPI,10,Completed
+ORD100633,2025-06-08,CUST1155,Webcam,Electronics,North,3,65,0.1,175.5,31.08,UPI,3,Completed
+ORD100634,2025-05-19,CUST1248,Laptop Stand,Accessories,East,1,35,0.05,33.25,3.02,Credit Card,6,Completed
+ORD100635,2025-03-08,CUST1068,Monitor,Electronics,South,1,210,0.1,189.0,40.51,Debit Card,8,Shipped
+ORD100636,2025-09-08,CUST1300,Wireless Mouse,Accessories,West,5,22,0.2,88.0,-8.19,Cash on Delivery,4,Completed
+ORD100637,2025-03-27,CUST1039,Smartphone Case,Mobile,Central,5,18,0.1,81.0,20.99,Credit Card,3,Completed
+ORD100638,2025-04-19,CUST1030,USB-C Hub,Accessories,East,1,45,0.1,40.5,5.3,Debit Card,4,Completed
+ORD100639,2025-10-17,CUST1293,Mechanical Keyboard,Accessories,West,2,75,0.05,142.5,37.93,Credit Card,4,Cancelled
+ORD100640,2025-12-13,CUST1031,Webcam,Electronics,West,1,65,0.15,55.25,10.88,Cash on Delivery,8,Completed
+ORD100641,2025-09-02,CUST1221,Monitor,Electronics,Central,2,210,0.2,336.0,42.15,Credit Card,4,Completed
+ORD100642,2025-12-01,CUST1230,Laptop Stand,Accessories,South,2,35,0.0,70.0,2.71,UPI,4,Pending
+ORD100643,2025-11-08,CUST1100,Desk Lamp,Furniture,South,2,40,0.05,76.0,18.76,Debit Card,10,Completed
+ORD100644,2025-06-25,CUST1020,Desk Lamp,Furniture,South,3,40,0.1,108.0,8.06,Cash on Delivery,6,Completed
+ORD100645,2025-10-09,CUST1093,Office Chair,Furniture,West,1,180,0.1,162.0,13.39,Credit Card,10,Pending
+ORD100646,2025-04-30,CUST1021,Headphones,Electronics,Central,5,90,0.1,405.0,99.84,Net Banking,8,Pending
+ORD100647,2025-06-18,CUST1202,Monitor,Electronics,South,4,210,0.0,840.0,135.56,Cash on Delivery,9,Completed
+ORD100648,2025-07-15,CUST1267,Webcam,Electronics,North,4,65,0.05,247.0,32.35,UPI,2,Pending
+ORD100649,2025-12-17,CUST1300,Webcam,Electronics,West,1,65,0.1,58.5,7.6,Cash on Delivery,10,Shipped
+ORD100650,2025-11-06,CUST1241,Wireless Mouse,Accessories,East,4,22,0.1,79.2,10.26,Debit Card,10,Completed
+ORD100651,2025-06-28,CUST1233,Laptop Stand,Accessories,South,5,35,0.1,157.5,19.81,Credit Card,1,Completed
+ORD100652,2025-08-27,CUST1265,Mechanical Keyboard,Accessories,North,1,75,0.1,67.5,5.88,Credit Card,4,Cancelled
+ORD100653,2025-03-15,CUST1231,Monitor,Electronics,Central,4,210,0.1,756.0,103.7,Cash on Delivery,5,Cancelled
+ORD100654,2025-10-21,CUST1196,Wireless Mouse,Accessories,Central,2,22,0.15,37.4,3.81,Debit Card,5,Cancelled
+ORD100655,2025-07-21,CUST1299,Wireless Mouse,Accessories,West,4,22,0.1,79.2,10.99,Credit Card,8,Shipped
+ORD100656,2025-07-14,CUST1097,Desk Lamp,Furniture,East,3,40,0.1,108.0,-0.61,UPI,7,Completed
+ORD100657,2025-10-07,CUST1124,USB-C Hub,Accessories,South,5,45,0.1,202.5,14.64,Credit Card,3,Completed
+ORD100658,2025-08-20,CUST1272,Webcam,Electronics,East,1,65,0.0,65.0,9.19,Net Banking,7,Completed
+ORD100659,2025-01-27,CUST1094,Webcam,Electronics,North,2,65,0.05,123.5,35.76,Debit Card,10,Cancelled
+ORD100660,2025-04-16,CUST1090,Office Chair,Furniture,South,2,180,0.1,324.0,28.15,UPI,5,Completed
+ORD100661,2025-03-06,CUST1046,Office Chair,Furniture,East,2,180,0.15,306.0,36.06,Cash on Delivery,10,Completed
+ORD100662,2025-09-26,CUST1083,Mechanical Keyboard,Accessories,East,2,75,0.1,135.0,33.14,Cash on Delivery,7,Completed
+ORD100663,2025-01-13,CUST1179,Desk Lamp,Furniture,North,2,40,0.0,80.0,21.32,Credit Card,10,Completed
+ORD100664,2025-03-15,CUST1266,USB-C Hub,Accessories,Central,1,45,0.1,40.5,6.74,UPI,10,Completed
+ORD100665,2025-08-07,CUST1041,Desk Lamp,Furniture,South,4,40,0.05,152.0,10.34,Credit Card,1,Shipped
+ORD100666,2025-09-11,CUST1205,Monitor,Electronics,East,3,210,0.1,567.0,101.1,UPI,9,Completed
+ORD100667,2025-07-03,CUST1230,Wireless Mouse,Accessories,East,5,22,0.15,93.5,6.35,UPI,2,Pending
+ORD100668,2025-11-11,CUST1269,Office Chair,Furniture,East,4,180,0.1,648.0,68.03,Debit Card,9,Completed
+ORD100669,2025-12-02,CUST1226,Laptop Stand,Accessories,Central,1,35,0.1,31.5,3.62,Net Banking,9,Cancelled
+ORD100670,2025-02-18,CUST1047,Office Chair,Furniture,West,1,180,0.05,171.0,34.77,Credit Card,3,Pending
+ORD100671,2025-12-14,CUST1147,Laptop Stand,Accessories,Central,3,35,0.05,99.75,11.4,Cash on Delivery,1,Completed
+ORD100672,2025-08-13,CUST1286,Mechanical Keyboard,Accessories,South,3,75,0.15,191.25,40.4,Net Banking,5,Completed
+ORD100673,2025-08-21,CUST1273,Headphones,Electronics,South,2,90,0.1,162.0,18.91,UPI,4,Pending
+ORD100674,2025-02-04,CUST1184,Smartphone Case,Mobile,East,4,18,0.1,64.8,1.21,UPI,6,Completed
+ORD100675,2025-08-15,CUST1289,Monitor,Electronics,East,3,210,0.05,598.5,155.22,Debit Card,1,Pending
+ORD100676,2025-09-22,CUST1201,Wireless Mouse,Accessories,South,4,22,0.0,88.0,16.72,Debit Card,1,Completed
+ORD100677,2025-07-31,CUST1020,Mechanical Keyboard,Accessories,East,1,75,0.0,75.0,10.91,Credit Card,5,Completed
+ORD100678,2025-01-31,CUST1275,Desk Lamp,Furniture,North,5,40,0.0,200.0,29.82,Debit Card,8,Pending
+ORD100679,2025-07-10,CUST1051,Office Chair,Furniture,East,2,180,0.05,342.0,47.09,Debit Card,4,Pending
+ORD100680,2025-12-08,CUST1115,Wireless Mouse,Accessories,West,3,22,0.2,52.8,0.54,Debit Card,4,Shipped
+ORD100681,2025-09-22,CUST1072,USB-C Hub,Accessories,East,3,45,0.1,121.5,29.44,Debit Card,2,Completed
+ORD100682,2025-02-20,CUST1216,Mechanical Keyboard,Accessories,Central,5,75,0.05,356.25,31.18,UPI,3,Completed
+ORD100683,2025-12-17,CUST1009,Wireless Mouse,Accessories,Central,2,22,0.0,44.0,3.19,UPI,3,Pending
+ORD100684,2025-12-16,CUST1193,Desk Lamp,Furniture,Central,2,40,0.05,76.0,12.24,UPI,3,Shipped
+ORD100685,2025-03-03,CUST1260,Headphones,Electronics,North,2,90,0.15,153.0,12.13,Net Banking,4,Shipped
+ORD100686,2025-10-20,CUST1237,Wireless Mouse,Accessories,Central,2,22,0.05,41.8,-2.47,Net Banking,3,Completed
+ORD100687,2025-05-29,CUST1093,Headphones,Electronics,South,1,90,0.15,76.5,12.07,Cash on Delivery,7,Pending
+ORD100688,2025-08-05,CUST1270,Monitor,Electronics,East,1,210,0.15,178.5,52.3,UPI,4,Pending
+ORD100689,2025-06-12,CUST1109,Laptop Stand,Accessories,East,2,35,0.0,70.0,12.78,Credit Card,8,Cancelled
+ORD100690,2025-10-13,CUST1205,Monitor,Electronics,South,3,210,0.1,567.0,85.27,UPI,7,Completed
+ORD100691,2025-12-30,CUST1153,Wireless Mouse,Accessories,Central,2,22,0.2,35.2,1.34,Credit Card,7,Pending
+ORD100692,2025-10-18,CUST1021,Mechanical Keyboard,Accessories,West,2,75,0.05,142.5,29.69,UPI,6,Completed
+ORD100693,2025-12-06,CUST1001,Desk Lamp,Furniture,Central,4,40,0.0,160.0,9.27,Cash on Delivery,10,Shipped
+ORD100694,2025-12-12,CUST1055,Office Chair,Furniture,Central,2,180,0.2,288.0,58.39,UPI,3,Shipped
+ORD100695,2025-02-02,CUST1281,Wireless Mouse,Accessories,East,5,22,0.15,93.5,10.51,Debit Card,10,Pending
+ORD100696,2025-04-03,CUST1287,Desk Lamp,Furniture,West,4,40,0.1,144.0,18.46,Net Banking,3,Pending
+ORD100697,2025-09-21,CUST1124,Webcam,Electronics,East,1,65,0.1,58.5,8.0,Debit Card,2,Completed
+ORD100698,2025-08-04,CUST1291,Desk Lamp,Furniture,East,2,40,0.05,76.0,2.89,UPI,9,Pending
+ORD100699,2025-01-19,CUST1015,Office Chair,Furniture,West,1,180,0.15,153.0,9.59,Net Banking,9,Pending
+ORD100700,2025-02-04,CUST1291,USB-C Hub,Accessories,West,2,45,0.1,81.0,8.5,Debit Card,1,Completed
+ORD100701,2025-07-09,CUST1070,Webcam,Electronics,Central,2,65,0.0,130.0,33.97,Credit Card,6,Completed
+ORD100702,2025-08-13,CUST1012,Webcam,Electronics,West,1,65,0.1,58.5,6.95,Debit Card,6,Pending
+ORD100703,2025-03-03,CUST1228,Office Chair,Furniture,West,1,180,0.2,144.0,30.64,Cash on Delivery,3,Completed
+ORD100704,2025-03-04,CUST1115,Mechanical Keyboard,Accessories,Central,3,75,0.15,191.25,36.17,Credit Card,6,Completed
+ORD100705,2025-02-17,CUST1088,USB-C Hub,Accessories,North,4,45,0.05,171.0,4.81,Credit Card,7,Pending
+ORD100706,2025-07-26,CUST1228,Mechanical Keyboard,Accessories,West,2,75,0.0,150.0,12.93,Credit Card,6,Pending
+ORD100707,2025-01-03,CUST1100,Mechanical Keyboard,Accessories,South,5,75,0.2,300.0,30.26,UPI,6,Completed
+ORD100708,2025-07-28,CUST1226,Wireless Mouse,Accessories,East,2,22,0.2,35.2,7.5,Cash on Delivery,9,Pending
+ORD100709,2025-06-23,CUST1059,Laptop Stand,Accessories,West,5,35,0.1,157.5,15.55,UPI,3,Completed
+ORD100710,2025-06-20,CUST1026,Smartphone Case,Mobile,South,2,18,0.1,32.4,6.57,Credit Card,7,Completed
+ORD100711,2025-09-05,CUST1098,Laptop Stand,Accessories,Central,3,35,0.1,94.5,25.79,Credit Card,4,Cancelled
+ORD100712,2025-07-10,CUST1183,Desk Lamp,Furniture,East,4,40,0.05,152.0,32.38,UPI,10,Completed
+ORD100713,2025-09-23,CUST1068,Laptop Stand,Accessories,South,1,35,0.0,35.0,9.59,Credit Card,3,Completed
+ORD100714,2025-10-06,CUST1043,Office Chair,Furniture,South,5,180,0.0,900.0,216.12,Debit Card,9,Completed
+ORD100715,2025-12-02,CUST1225,USB-C Hub,Accessories,East,2,45,0.05,85.5,21.73,UPI,7,Completed
+ORD100716,2025-10-19,CUST1148,Webcam,Electronics,Central,3,65,0.15,165.75,36.59,UPI,3,Completed
+ORD100717,2025-07-08,CUST1130,Mechanical Keyboard,Accessories,North,4,75,0.0,300.0,64.6,Cash on Delivery,8,Completed
+ORD100718,2025-06-29,CUST1072,Monitor,Electronics,East,4,210,0.05,798.0,206.71,Net Banking,3,Completed
+ORD100719,2025-03-28,CUST1006,Monitor,Electronics,Central,1,210,0.1,189.0,53.84,Credit Card,3,Completed
+ORD100720,2025-08-07,CUST1016,Webcam,Electronics,East,5,65,0.05,308.75,51.75,UPI,4,Completed
+ORD100721,2025-02-20,CUST1205,USB-C Hub,Accessories,East,4,45,0.0,180.0,35.74,UPI,7,Cancelled
+ORD100722,2025-12-06,CUST1025,Webcam,Electronics,South,5,65,0.1,292.5,56.33,UPI,4,Shipped
+ORD100723,2025-11-05,CUST1075,Desk Lamp,Furniture,North,3,40,0.05,114.0,29.1,Credit Card,6,Completed
+ORD100724,2025-02-13,CUST1274,Monitor,Electronics,West,4,210,0.1,756.0,124.67,Net Banking,6,Completed
+ORD100725,2025-10-14,CUST1104,USB-C Hub,Accessories,Central,3,45,0.2,108.0,24.19,Debit Card,2,Pending
+ORD100726,2025-02-12,CUST1224,Wireless Mouse,Accessories,East,5,22,0.0,110.0,23.08,UPI,3,Completed
+ORD100727,2025-09-21,CUST1103,USB-C Hub,Accessories,East,5,45,0.2,180.0,51.63,Net Banking,4,Completed
+ORD100728,2025-02-02,CUST1280,Wireless Mouse,Accessories,North,5,22,0.2,88.0,2.6,Credit Card,3,Shipped
+ORD100729,2025-06-28,CUST1247,Wireless Mouse,Accessories,Central,3,22,0.15,56.1,5.44,UPI,10,Pending
+ORD100730,2025-08-29,CUST1141,Smartphone Case,Mobile,Central,4,18,0.1,64.8,12.37,Credit Card,4,Completed
+ORD100731,2025-09-24,CUST1206,Laptop Stand,Accessories,Central,2,35,0.1,63.0,13.13,UPI,5,Pending
+ORD100732,2025-06-02,CUST1124,Monitor,Electronics,South,3,210,0.1,567.0,161.21,Cash on Delivery,7,Completed
+ORD100733,2025-12-03,CUST1284,Desk Lamp,Furniture,West,4,40,0.1,144.0,18.74,Credit Card,8,Completed
+ORD100734,2025-10-10,CUST1108,Smartphone Case,Mobile,East,1,18,0.0,18.0,2.94,Debit Card,7,Pending
+ORD100735,2025-03-18,CUST1251,Wireless Mouse,Accessories,South,4,22,0.2,70.4,-1.64,Credit Card,6,Cancelled
+ORD100736,2025-09-02,CUST1185,Wireless Mouse,Accessories,South,1,22,0.1,19.8,5.6,Net Banking,10,Cancelled
+ORD100737,2025-09-24,CUST1194,USB-C Hub,Accessories,South,3,45,0.15,114.75,11.84,Debit Card,9,Completed
+ORD100738,2025-05-02,CUST1106,Webcam,Electronics,East,3,65,0.05,185.25,38.35,Credit Card,3,Completed
+ORD100739,2025-09-27,CUST1250,Smartphone Case,Mobile,North,3,18,0.0,54.0,7.05,UPI,2,Shipped
+ORD100740,2025-11-24,CUST1224,Mechanical Keyboard,Accessories,West,3,75,0.1,202.5,35.39,Net Banking,4,Completed
+ORD100741,2025-10-26,CUST1245,Wireless Mouse,Accessories,East,3,22,0.1,59.4,-2.54,Credit Card,9,Cancelled
+ORD100742,2025-10-06,CUST1241,Mechanical Keyboard,Accessories,Central,3,75,0.05,213.75,26.15,UPI,10,Completed
+ORD100743,2025-08-20,CUST1048,Desk Lamp,Furniture,South,3,40,0.05,114.0,25.41,Cash on Delivery,8,Completed
+ORD100744,2025-04-09,CUST1263,Laptop Stand,Accessories,North,3,35,0.05,99.75,8.4,UPI,7,Cancelled
+ORD100745,2025-10-18,CUST1253,USB-C Hub,Accessories,South,4,45,0.1,162.0,7.96,UPI,3,Completed
+ORD100746,2025-05-13,CUST1073,Wireless Mouse,Accessories,Central,3,22,0.05,62.7,6.2,Credit Card,6,Shipped
+ORD100747,2025-07-14,CUST1295,Wireless Mouse,Accessories,South,4,22,0.2,70.4,0.34,UPI,2,Completed
+ORD100748,2025-04-25,CUST1159,Smartphone Case,Mobile,West,5,18,0.0,90.0,10.47,Credit Card,6,Pending
+ORD100749,2025-04-25,CUST1097,Laptop Stand,Accessories,Central,5,35,0.05,166.25,12.54,UPI,2,Completed
+ORD100750,2025-02-27,CUST1068,USB-C Hub,Accessories,South,1,45,0.05,42.75,2.71,UPI,1,Shipped
+ORD100751,2025-12-17,CUST1110,Smartphone Case,Mobile,West,4,18,0.1,64.8,2.86,UPI,10,Completed
+ORD100752,2025-02-23,CUST1012,Headphones,Electronics,South,2,90,0.1,162.0,26.91,UPI,9,Completed
+ORD100753,2025-02-01,CUST1208,Laptop Stand,Accessories,South,1,35,0.1,31.5,4.98,Net Banking,7,Completed
+ORD100754,2025-12-08,CUST1213,Monitor,Electronics,South,4,210,0.2,672.0,159.24,Credit Card,7,Completed
+ORD100755,2025-07-22,CUST1201,Smartphone Case,Mobile,West,1,18,0.05,17.1,2.36,Credit Card,3,Completed
+ORD100756,2025-06-09,CUST1165,Monitor,Electronics,Central,5,210,0.1,945.0,148.84,Credit Card,6,Pending
+ORD100757,2025-09-27,CUST1109,Webcam,Electronics,South,4,65,0.0,260.0,23.39,Debit Card,8,Completed
+ORD100758,2025-05-20,CUST1218,Webcam,Electronics,South,5,65,0.05,308.75,40.45,UPI,6,Cancelled
+ORD100759,2025-02-16,CUST1262,Headphones,Electronics,Central,4,90,0.1,324.0,92.3,UPI,3,Completed
+ORD100760,2025-09-24,CUST1027,Wireless Mouse,Accessories,East,5,22,0.0,110.0,-1.13,Debit Card,4,Completed
+ORD100761,2025-03-06,CUST1115,Desk Lamp,Furniture,East,1,40,0.1,36.0,10.78,Credit Card,9,Completed
+ORD100762,2025-07-21,CUST1299,Smartphone Case,Mobile,West,5,18,0.1,81.0,9.65,Debit Card,3,Shipped
+ORD100763,2025-12-13,CUST1259,Wireless Mouse,Accessories,North,1,22,0.1,19.8,0.06,Cash on Delivery,10,Completed
+ORD100764,2025-12-08,CUST1299,Desk Lamp,Furniture,Central,2,40,0.1,72.0,8.11,Cash on Delivery,8,Completed
+ORD100765,2025-05-12,CUST1055,Desk Lamp,Furniture,South,1,40,0.1,36.0,2.44,UPI,9,Completed
+ORD100766,2025-10-12,CUST1140,Office Chair,Furniture,West,3,180,0.05,513.0,138.2,UPI,6,Cancelled
+ORD100767,2025-08-12,CUST1040,USB-C Hub,Accessories,East,4,45,0.0,180.0,30.62,UPI,3,Completed
+ORD100768,2025-06-24,CUST1260,Monitor,Electronics,West,2,210,0.0,420.0,65.02,Cash on Delivery,1,Completed
+ORD100769,2025-02-21,CUST1156,Desk Lamp,Furniture,West,5,40,0.1,180.0,42.38,Net Banking,6,Completed
+ORD100770,2025-05-18,CUST1074,Wireless Mouse,Accessories,North,4,22,0.2,70.4,6.35,Net Banking,4,Pending
+ORD100771,2025-08-26,CUST1028,Desk Lamp,Furniture,North,4,40,0.0,160.0,38.86,UPI,2,Completed
+ORD100772,2025-12-27,CUST1222,Smartphone Case,Mobile,Central,5,18,0.1,81.0,23.75,Cash on Delivery,10,Completed
+ORD100773,2025-01-02,CUST1244,Headphones,Electronics,East,3,90,0.15,229.5,52.05,Credit Card,10,Completed
+ORD100774,2025-09-19,CUST1264,USB-C Hub,Accessories,South,2,45,0.15,76.5,14.15,Cash on Delivery,4,Shipped
+ORD100775,2025-11-05,CUST1292,Webcam,Electronics,North,5,65,0.1,292.5,67.38,Credit Card,7,Completed
+ORD100776,2025-12-14,CUST1245,Laptop Stand,Accessories,North,3,35,0.1,94.5,13.76,UPI,5,Shipped
+ORD100777,2025-06-04,CUST1236,Smartphone Case,Mobile,Central,4,18,0.1,64.8,8.7,UPI,5,Completed
+ORD100778,2025-02-13,CUST1244,USB-C Hub,Accessories,Central,2,45,0.15,76.5,5.89,Net Banking,7,Completed
+ORD100779,2025-04-09,CUST1300,Laptop Stand,Accessories,South,2,35,0.0,70.0,11.84,Credit Card,5,Cancelled
+ORD100780,2025-11-07,CUST1139,Office Chair,Furniture,South,1,180,0.2,144.0,41.1,Credit Card,9,Pending
+ORD100781,2025-11-17,CUST1228,Headphones,Electronics,East,2,90,0.0,180.0,10.79,Credit Card,2,Pending
+ORD100782,2025-08-21,CUST1246,Headphones,Electronics,North,1,90,0.15,76.5,20.58,Credit Card,7,Cancelled
+ORD100783,2025-02-14,CUST1035,Laptop Stand,Accessories,East,4,35,0.0,140.0,37.58,Net Banking,10,Completed
+ORD100784,2025-02-14,CUST1208,Office Chair,Furniture,West,1,180,0.0,180.0,23.53,UPI,9,Pending
+ORD100785,2025-06-24,CUST1102,Headphones,Electronics,Central,4,90,0.0,360.0,69.23,UPI,1,Completed
+ORD100786,2025-08-03,CUST1040,Office Chair,Furniture,South,5,180,0.05,855.0,252.14,Cash on Delivery,2,Completed
+ORD100787,2025-01-12,CUST1052,Desk Lamp,Furniture,North,4,40,0.05,152.0,37.06,Credit Card,7,Completed
+ORD100788,2025-09-08,CUST1035,Mechanical Keyboard,Accessories,North,3,75,0.0,225.0,22.63,UPI,10,Pending
+ORD100789,2025-07-18,CUST1270,Mechanical Keyboard,Accessories,South,1,75,0.1,67.5,7.38,UPI,9,Shipped
+ORD100790,2025-01-05,CUST1232,Smartphone Case,Mobile,West,5,18,0.05,85.5,19.1,UPI,10,Completed
+ORD100791,2025-02-04,CUST1031,Webcam,Electronics,North,1,65,0.15,55.25,7.33,UPI,2,Completed
+ORD100792,2025-06-15,CUST1188,Monitor,Electronics,West,4,210,0.15,714.0,99.09,UPI,6,Shipped
+ORD100793,2025-09-21,CUST1199,Mechanical Keyboard,Accessories,East,4,75,0.1,270.0,11.85,UPI,8,Completed
+ORD100794,2025-10-29,CUST1156,Headphones,Electronics,West,1,90,0.0,90.0,9.09,Debit Card,7,Completed
+ORD100795,2025-06-07,CUST1182,Office Chair,Furniture,East,4,180,0.05,684.0,137.5,Cash on Delivery,8,Shipped
+ORD100796,2025-04-18,CUST1273,Laptop Stand,Accessories,North,1,35,0.2,28.0,5.73,Cash on Delivery,3,Shipped
+ORD100797,2025-12-20,CUST1156,Webcam,Electronics,North,2,65,0.0,130.0,29.3,Credit Card,5,Completed
+ORD100798,2025-06-17,CUST1198,Smartphone Case,Mobile,East,5,18,0.05,85.5,13.39,UPI,5,Completed
+ORD100799,2025-04-26,CUST1172,Mechanical Keyboard,Accessories,East,5,75,0.2,300.0,46.84,Net Banking,10,Completed
+ORD100800,2025-06-11,CUST1119,Mechanical Keyboard,Accessories,Central,2,75,0.2,120.0,12.55,Debit Card,3,Completed
+ORD100801,2025-01-05,CUST1268,Desk Lamp,Furniture,Central,5,40,0.05,190.0,11.55,Credit Card,4,Completed
+ORD100802,2025-04-21,CUST1125,Laptop Stand,Accessories,North,5,35,0.1,157.5,7.15,UPI,1,Completed
+ORD100803,2025-07-08,CUST1240,USB-C Hub,Accessories,South,4,45,0.1,162.0,12.84,UPI,2,Cancelled
+ORD100804,2025-12-02,CUST1182,Monitor,Electronics,South,1,210,0.15,178.5,21.25,Credit Card,10,Completed
+ORD100805,2025-09-27,CUST1206,Office Chair,Furniture,North,2,180,0.0,360.0,30.19,Credit Card,9,Pending
+ORD100806,2025-10-13,CUST1229,Wireless Mouse,Accessories,North,4,22,0.0,88.0,3.33,UPI,3,Completed
+ORD100807,2025-07-18,CUST1221,Monitor,Electronics,North,5,210,0.1,945.0,211.19,Net Banking,8,Cancelled
+ORD100808,2025-02-10,CUST1170,Wireless Mouse,Accessories,East,5,22,0.05,104.5,11.13,Credit Card,6,Completed
+ORD100809,2025-05-23,CUST1185,Office Chair,Furniture,North,3,180,0.1,486.0,139.6,Credit Card,10,Completed
+ORD100810,2025-12-30,CUST1153,Headphones,Electronics,North,2,90,0.05,171.0,43.21,UPI,4,Pending
+ORD100811,2025-01-17,CUST1102,Monitor,Electronics,North,5,210,0.15,892.5,188.31,Debit Card,10,Completed
+ORD100812,2025-11-17,CUST1219,USB-C Hub,Accessories,West,2,45,0.15,76.5,4.39,Debit Card,4,Completed
+ORD100813,2025-09-07,CUST1264,Wireless Mouse,Accessories,West,2,22,0.1,39.6,6.89,UPI,8,Pending
+ORD100814,2025-04-14,CUST1212,Smartphone Case,Mobile,Central,5,18,0.15,76.5,-7.27,Credit Card,4,Completed
+ORD100815,2025-10-11,CUST1232,Headphones,Electronics,North,3,90,0.05,256.5,44.68,Debit Card,7,Completed
+ORD100816,2025-11-02,CUST1250,USB-C Hub,Accessories,South,2,45,0.1,81.0,11.74,Cash on Delivery,4,Pending
+ORD100817,2025-01-16,CUST1111,Monitor,Electronics,East,1,210,0.0,210.0,36.34,UPI,9,Completed
+ORD100818,2025-02-08,CUST1019,Office Chair,Furniture,West,3,180,0.15,459.0,61.71,Cash on Delivery,7,Cancelled
+ORD100819,2025-08-31,CUST1102,Office Chair,Furniture,North,5,180,0.15,765.0,175.1,Credit Card,3,Cancelled
+ORD100820,2025-12-31,CUST1227,Monitor,Electronics,South,3,210,0.2,504.0,136.79,UPI,10,Cancelled
+ORD100821,2025-01-09,CUST1245,USB-C Hub,Accessories,East,4,45,0.15,153.0,25.75,UPI,8,Cancelled
+ORD100822,2025-08-31,CUST1155,Headphones,Electronics,North,2,90,0.2,144.0,26.5,UPI,5,Pending
+ORD100823,2025-02-19,CUST1234,Headphones,Electronics,South,4,90,0.05,342.0,57.48,UPI,2,Completed
+ORD100824,2025-08-26,CUST1023,Webcam,Electronics,West,4,65,0.2,208.0,8.12,Credit Card,10,Cancelled
+ORD100825,2025-08-16,CUST1194,Laptop Stand,Accessories,East,4,35,0.1,126.0,21.78,Debit Card,8,Completed
+ORD100826,2025-02-03,CUST1204,Monitor,Electronics,East,4,210,0.05,798.0,158.47,UPI,7,Shipped
+ORD100827,2025-09-06,CUST1153,Headphones,Electronics,East,3,90,0.1,243.0,30.01,Net Banking,9,Completed
+ORD100828,2025-11-24,CUST1215,Smartphone Case,Mobile,Central,2,18,0.05,34.2,2.85,UPI,7,Cancelled
+ORD100829,2025-11-12,CUST1148,Webcam,Electronics,East,4,65,0.05,247.0,65.75,Credit Card,3,Shipped
+ORD100830,2025-01-11,CUST1158,USB-C Hub,Accessories,East,5,45,0.05,213.75,48.62,Net Banking,3,Cancelled
+ORD100831,2025-03-31,CUST1182,Webcam,Electronics,Central,5,65,0.0,325.0,62.97,Cash on Delivery,1,Completed
+ORD100832,2025-03-29,CUST1239,Wireless Mouse,Accessories,North,2,22,0.1,39.6,2.26,Debit Card,1,Completed
+ORD100833,2025-06-15,CUST1075,Laptop Stand,Accessories,North,4,35,0.15,119.0,20.59,Debit Card,8,Completed
+ORD100834,2025-02-22,CUST1091,Headphones,Electronics,East,1,90,0.1,81.0,13.52,UPI,9,Cancelled
+ORD100835,2025-11-08,CUST1126,Smartphone Case,Mobile,South,3,18,0.1,48.6,-0.11,UPI,2,Completed
+ORD100836,2025-10-11,CUST1061,Desk Lamp,Furniture,South,3,40,0.05,114.0,18.78,Credit Card,6,Pending
+ORD100837,2025-10-23,CUST1101,Webcam,Electronics,North,2,65,0.1,117.0,21.45,UPI,2,Completed
+ORD100838,2025-03-14,CUST1106,Laptop Stand,Accessories,Central,5,35,0.05,166.25,11.09,Credit Card,5,Pending
+ORD100839,2025-01-06,CUST1095,Smartphone Case,Mobile,West,5,18,0.15,76.5,3.03,UPI,8,Pending
+ORD100840,2025-11-29,CUST1124,Monitor,Electronics,West,1,210,0.0,210.0,28.01,Net Banking,9,Cancelled
+ORD100841,2025-04-16,CUST1152,Mechanical Keyboard,Accessories,North,2,75,0.1,135.0,30.99,Cash on Delivery,10,Completed
+ORD100842,2025-08-28,CUST1209,Desk Lamp,Furniture,South,2,40,0.15,68.0,14.72,Cash on Delivery,4,Completed
+ORD100843,2025-11-28,CUST1091,Office Chair,Furniture,West,5,180,0.1,810.0,185.35,Debit Card,10,Completed
+ORD100844,2025-01-14,CUST1254,Office Chair,Furniture,East,3,180,0.15,459.0,98.94,UPI,8,Completed
+ORD100845,2025-01-02,CUST1144,Mechanical Keyboard,Accessories,West,4,75,0.05,285.0,84.47,UPI,4,Pending
+ORD100846,2025-01-02,CUST1217,Smartphone Case,Mobile,West,5,18,0.15,76.5,-4.52,Debit Card,4,Shipped
+ORD100847,2025-02-27,CUST1035,Monitor,Electronics,East,4,210,0.1,756.0,189.68,Debit Card,2,Pending
+ORD100848,2025-01-19,CUST1053,Webcam,Electronics,West,1,65,0.15,55.25,10.45,Credit Card,10,Pending
+ORD100849,2025-10-27,CUST1137,Office Chair,Furniture,South,1,180,0.1,162.0,21.51,Credit Card,3,Cancelled
+ORD100850,2025-08-10,CUST1110,Headphones,Electronics,North,2,90,0.15,153.0,14.8,Credit Card,3,Cancelled
+ORD100851,2025-12-24,CUST1149,Wireless Mouse,Accessories,Central,2,22,0.2,35.2,4.59,UPI,5,Shipped
+ORD100852,2025-10-20,CUST1048,USB-C Hub,Accessories,North,4,45,0.05,171.0,18.33,UPI,2,Cancelled
+ORD100853,2025-12-18,CUST1143,USB-C Hub,Accessories,South,1,45,0.15,38.25,4.19,Credit Card,9,Completed
+ORD100854,2025-03-29,CUST1207,Smartphone Case,Mobile,North,2,18,0.1,32.4,4.67,Debit Card,7,Pending
+ORD100855,2025-04-16,CUST1219,Office Chair,Furniture,South,2,180,0.1,324.0,66.34,Net Banking,2,Completed
+ORD100856,2025-11-07,CUST1075,USB-C Hub,Accessories,South,1,45,0.2,36.0,3.68,Credit Card,2,Cancelled
+ORD100857,2025-03-31,CUST1104,Office Chair,Furniture,North,1,180,0.05,171.0,44.49,Debit Card,1,Completed
+ORD100858,2025-01-21,CUST1158,Office Chair,Furniture,East,1,180,0.1,162.0,27.77,Cash on Delivery,10,Completed
+ORD100859,2025-09-02,CUST1156,USB-C Hub,Accessories,Central,3,45,0.0,135.0,26.45,UPI,5,Pending
+ORD100860,2025-10-20,CUST1238,Monitor,Electronics,North,3,210,0.05,598.5,58.91,Debit Card,7,Cancelled
+ORD100861,2025-12-20,CUST1118,Desk Lamp,Furniture,Central,3,40,0.15,102.0,17.64,Credit Card,2,Completed
+ORD100862,2025-12-05,CUST1202,Webcam,Electronics,East,3,65,0.05,185.25,14.14,Credit Card,3,Completed
+ORD100863,2025-02-13,CUST1266,Wireless Mouse,Accessories,East,4,22,0.05,83.6,15.42,UPI,6,Shipped
+ORD100864,2025-10-09,CUST1090,Office Chair,Furniture,East,5,180,0.05,855.0,136.03,Net Banking,3,Completed
+ORD100865,2025-11-05,CUST1247,Webcam,Electronics,South,3,65,0.1,175.5,42.96,Net Banking,7,Completed
+ORD100866,2025-09-12,CUST1100,Webcam,Electronics,North,4,65,0.15,221.0,26.66,UPI,10,Completed
+ORD100867,2025-10-27,CUST1101,Office Chair,Furniture,East,4,180,0.15,612.0,121.79,UPI,4,Shipped
+ORD100868,2025-11-02,CUST1197,Smartphone Case,Mobile,Central,4,18,0.0,72.0,4.49,UPI,7,Completed
+ORD100869,2025-06-12,CUST1187,USB-C Hub,Accessories,East,1,45,0.1,40.5,8.16,Cash on Delivery,10,Pending
+ORD100870,2025-01-15,CUST1165,Monitor,Electronics,East,5,210,0.1,945.0,171.46,Credit Card,9,Completed
+ORD100871,2025-06-16,CUST1070,Wireless Mouse,Accessories,West,1,22,0.1,19.8,2.17,UPI,1,Completed
+ORD100872,2025-03-15,CUST1029,Headphones,Electronics,South,3,90,0.05,256.5,28.94,Cash on Delivery,2,Completed
+ORD100873,2025-02-11,CUST1273,Monitor,Electronics,North,4,210,0.05,798.0,77.95,Credit Card,10,Completed
+ORD100874,2025-02-15,CUST1263,USB-C Hub,Accessories,East,3,45,0.1,121.5,7.15,Credit Card,10,Shipped
+ORD100875,2025-09-12,CUST1267,Headphones,Electronics,Central,2,90,0.1,162.0,43.93,Credit Card,4,Completed
+ORD100876,2025-07-04,CUST1154,Monitor,Electronics,South,5,210,0.1,945.0,164.65,Credit Card,6,Pending
+ORD100877,2025-07-17,CUST1266,Monitor,Electronics,Central,1,210,0.1,189.0,13.26,Credit Card,6,Cancelled
+ORD100878,2025-09-29,CUST1143,Monitor,Electronics,Central,2,210,0.15,357.0,109.01,UPI,7,Completed
+ORD100879,2025-07-20,CUST1023,Mechanical Keyboard,Accessories,South,5,75,0.1,337.5,21.62,Credit Card,8,Shipped
+ORD100880,2025-08-18,CUST1060,Wireless Mouse,Accessories,East,4,22,0.05,83.6,3.61,Net Banking,4,Shipped
+ORD100881,2025-02-01,CUST1082,Desk Lamp,Furniture,West,1,40,0.15,34.0,7.88,Credit Card,9,Completed
+ORD100882,2025-11-07,CUST1114,Laptop Stand,Accessories,East,4,35,0.15,119.0,26.34,Net Banking,1,Completed
+ORD100883,2025-06-13,CUST1282,USB-C Hub,Accessories,West,5,45,0.0,225.0,48.16,Credit Card,1,Completed
+ORD100884,2025-02-26,CUST1100,Headphones,Electronics,Central,1,90,0.1,81.0,15.29,Debit Card,10,Completed
+ORD100885,2025-10-24,CUST1184,Wireless Mouse,Accessories,West,3,22,0.05,62.7,8.48,UPI,2,Completed
+ORD100886,2025-09-26,CUST1082,Headphones,Electronics,Central,3,90,0.1,243.0,16.77,Cash on Delivery,10,Completed
+ORD100887,2025-01-20,CUST1193,Office Chair,Furniture,Central,1,180,0.05,171.0,51.05,UPI,3,Cancelled
+ORD100888,2025-03-12,CUST1171,Headphones,Electronics,Central,2,90,0.1,162.0,42.65,UPI,4,Shipped
+ORD100889,2025-01-06,CUST1046,USB-C Hub,Accessories,Central,1,45,0.05,42.75,9.2,UPI,1,Completed
+ORD100890,2025-04-09,CUST1139,Laptop Stand,Accessories,South,1,35,0.1,31.5,3.28,UPI,10,Pending
+ORD100891,2025-02-06,CUST1032,Desk Lamp,Furniture,North,3,40,0.2,96.0,6.02,Net Banking,4,Completed
+ORD100892,2025-09-17,CUST1267,USB-C Hub,Accessories,North,3,45,0.05,128.25,21.57,Net Banking,2,Shipped
+ORD100893,2025-07-10,CUST1212,Desk Lamp,Furniture,South,2,40,0.15,68.0,11.11,Debit Card,5,Shipped
+ORD100894,2025-12-24,CUST1283,Wireless Mouse,Accessories,West,2,22,0.2,35.2,4.32,UPI,2,Pending
+ORD100895,2025-10-01,CUST1263,Wireless Mouse,Accessories,East,1,22,0.15,18.7,1.67,Cash on Delivery,8,Completed
+ORD100896,2025-08-12,CUST1066,Office Chair,Furniture,East,4,180,0.0,720.0,155.86,Debit Card,1,Shipped
+ORD100897,2025-07-05,CUST1213,Smartphone Case,Mobile,North,2,18,0.15,30.6,-0.78,UPI,5,Pending
+ORD100898,2025-01-20,CUST1031,Desk Lamp,Furniture,West,5,40,0.0,200.0,22.33,Credit Card,4,Pending
+ORD100899,2025-01-26,CUST1289,Office Chair,Furniture,South,3,180,0.05,513.0,47.54,Debit Card,1,Completed
+ORD100900,2025-08-13,CUST1236,Mechanical Keyboard,Accessories,West,5,75,0.15,318.75,22.98,UPI,1,Cancelled
+ORD100901,2025-01-02,CUST1205,Smartphone Case,Mobile,North,4,18,0.1,64.8,-1.6,Credit Card,6,Completed
+ORD100902,2025-01-16,CUST1299,Headphones,Electronics,South,2,90,0.1,162.0,42.11,Debit Card,4,Completed
+ORD100903,2025-03-21,CUST1255,Wireless Mouse,Accessories,North,4,22,0.05,83.6,20.47,UPI,2,Completed
+ORD100904,2025-11-19,CUST1260,Wireless Mouse,Accessories,South,2,22,0.15,37.4,2.84,Credit Card,2,Completed
+ORD100905,2025-06-17,CUST1031,Desk Lamp,Furniture,Central,1,40,0.1,36.0,2.81,Credit Card,9,Completed
+ORD100906,2025-09-16,CUST1008,Mechanical Keyboard,Accessories,East,2,75,0.1,135.0,28.85,Debit Card,8,Completed
+ORD100907,2025-05-31,CUST1289,Office Chair,Furniture,East,2,180,0.15,306.0,82.86,Net Banking,7,Pending
+ORD100908,2025-03-05,CUST1076,Wireless Mouse,Accessories,South,1,22,0.05,20.9,4.94,Cash on Delivery,9,Shipped
+ORD100909,2025-05-16,CUST1128,Mechanical Keyboard,Accessories,South,1,75,0.0,75.0,13.81,Debit Card,1,Completed
+ORD100910,2025-02-03,CUST1014,Mechanical Keyboard,Accessories,West,5,75,0.1,337.5,76.68,Credit Card,7,Completed
+ORD100911,2025-10-09,CUST1187,Mechanical Keyboard,Accessories,Central,3,75,0.2,180.0,34.43,Debit Card,8,Shipped
+ORD100912,2025-03-08,CUST1247,Headphones,Electronics,West,3,90,0.05,256.5,42.39,Credit Card,3,Completed
+ORD100913,2025-05-18,CUST1253,Smartphone Case,Mobile,West,5,18,0.05,85.5,9.53,UPI,6,Completed
+ORD100914,2025-12-24,CUST1175,Smartphone Case,Mobile,East,2,18,0.0,36.0,-1.27,Debit Card,8,Cancelled
+ORD100915,2025-08-05,CUST1199,Office Chair,Furniture,North,3,180,0.15,459.0,78.93,Debit Card,7,Completed
+ORD100916,2025-06-17,CUST1155,Mechanical Keyboard,Accessories,West,5,75,0.05,356.25,36.04,Credit Card,3,Cancelled
+ORD100917,2025-07-18,CUST1134,Smartphone Case,Mobile,Central,4,18,0.1,64.8,3.63,Cash on Delivery,7,Cancelled
+ORD100918,2025-10-14,CUST1167,Webcam,Electronics,East,2,65,0.2,104.0,15.79,Debit Card,8,Completed
+ORD100919,2025-04-03,CUST1281,Webcam,Electronics,North,2,65,0.0,130.0,30.58,Credit Card,1,Completed
+ORD100920,2025-08-21,CUST1076,Office Chair,Furniture,West,1,180,0.1,162.0,27.67,UPI,6,Completed
+ORD100921,2025-11-15,CUST1142,Office Chair,Furniture,Central,1,180,0.1,162.0,18.94,UPI,6,Completed
+ORD100922,2025-07-28,CUST1181,Smartphone Case,Mobile,South,1,18,0.15,15.3,3.18,Credit Card,4,Completed
+ORD100923,2025-06-12,CUST1172,Webcam,Electronics,North,4,65,0.05,247.0,33.36,Credit Card,1,Pending
+ORD100924,2025-02-22,CUST1010,Headphones,Electronics,West,4,90,0.05,342.0,94.25,UPI,1,Completed
+ORD100925,2025-04-01,CUST1087,Office Chair,Furniture,South,3,180,0.0,540.0,63.44,UPI,8,Cancelled
+ORD100926,2025-12-12,CUST1194,Mechanical Keyboard,Accessories,West,4,75,0.1,270.0,57.22,UPI,9,Pending
+ORD100927,2025-07-17,CUST1209,USB-C Hub,Accessories,West,1,45,0.15,38.25,6.23,Cash on Delivery,5,Completed
+ORD100928,2025-04-20,CUST1221,Headphones,Electronics,South,2,90,0.0,180.0,48.49,Debit Card,10,Shipped
+ORD100929,2025-06-02,CUST1298,Laptop Stand,Accessories,North,2,35,0.05,66.5,0.2,Credit Card,10,Completed
+ORD100930,2025-07-30,CUST1202,USB-C Hub,Accessories,East,5,45,0.15,191.25,37.53,UPI,7,Completed
+ORD100931,2025-07-16,CUST1174,Office Chair,Furniture,East,4,180,0.0,720.0,144.64,UPI,6,Completed
+ORD100932,2025-09-13,CUST1100,Smartphone Case,Mobile,Central,5,18,0.05,85.5,15.36,UPI,10,Completed
+ORD100933,2025-04-04,CUST1112,Webcam,Electronics,South,2,65,0.1,117.0,21.93,Credit Card,7,Completed
+ORD100934,2025-08-25,CUST1248,USB-C Hub,Accessories,South,5,45,0.05,213.75,9.39,UPI,10,Completed
+ORD100935,2025-06-11,CUST1141,Monitor,Electronics,Central,1,210,0.05,199.5,36.26,UPI,10,Pending
+ORD100936,2025-12-10,CUST1215,Headphones,Electronics,West,2,90,0.1,162.0,19.21,Net Banking,2,Completed
+ORD100937,2025-02-27,CUST1038,Webcam,Electronics,West,3,65,0.0,195.0,30.97,Credit Card,7,Completed
+ORD100938,2025-02-24,CUST1039,Laptop Stand,Accessories,Central,1,35,0.1,31.5,7.27,Cash on Delivery,8,Completed
+ORD100939,2025-06-18,CUST1065,Webcam,Electronics,West,5,65,0.1,292.5,53.79,UPI,9,Completed
+ORD100940,2025-07-05,CUST1059,Monitor,Electronics,Central,5,210,0.1,945.0,79.89,UPI,4,Shipped
+ORD100941,2025-09-10,CUST1183,Office Chair,Furniture,West,3,180,0.0,540.0,45.21,Net Banking,9,Pending
+ORD100942,2025-05-28,CUST1192,Desk Lamp,Furniture,East,2,40,0.15,68.0,3.97,Credit Card,5,Completed
+ORD100943,2025-11-30,CUST1168,Smartphone Case,Mobile,North,1,18,0.0,18.0,0.99,Debit Card,4,Completed
+ORD100944,2025-06-23,CUST1087,Headphones,Electronics,West,4,90,0.15,306.0,54.28,Net Banking,2,Cancelled
+ORD100945,2025-02-17,CUST1174,USB-C Hub,Accessories,West,3,45,0.05,128.25,11.76,Credit Card,4,Completed
+ORD100946,2025-02-13,CUST1036,Monitor,Electronics,Central,4,210,0.15,714.0,194.85,UPI,10,Completed
+ORD100947,2025-12-22,CUST1142,Wireless Mouse,Accessories,West,4,22,0.05,83.6,-3.44,Credit Card,8,Completed
+ORD100948,2025-02-18,CUST1047,Smartphone Case,Mobile,East,1,18,0.0,18.0,-0.1,UPI,8,Pending
+ORD100949,2025-12-12,CUST1024,Desk Lamp,Furniture,East,1,40,0.1,36.0,6.87,UPI,9,Completed
+ORD100950,2025-04-12,CUST1050,Desk Lamp,Furniture,North,4,40,0.0,160.0,19.71,UPI,3,Completed
+ORD100951,2025-02-04,CUST1034,USB-C Hub,Accessories,North,1,45,0.05,42.75,5.15,Cash on Delivery,7,Pending
+ORD100952,2025-04-22,CUST1144,USB-C Hub,Accessories,North,5,45,0.1,202.5,61.05,Debit Card,4,Completed
+ORD100953,2025-08-13,CUST1164,Desk Lamp,Furniture,Central,1,40,0.15,34.0,8.53,UPI,9,Cancelled
+ORD100954,2025-06-06,CUST1183,Webcam,Electronics,West,4,65,0.0,260.0,61.93,UPI,5,Cancelled
+ORD100955,2025-10-14,CUST1132,Office Chair,Furniture,South,5,180,0.15,765.0,72.6,Debit Card,9,Completed
+ORD100956,2025-08-12,CUST1053,Monitor,Electronics,East,3,210,0.15,535.5,119.05,Net Banking,8,Shipped
+ORD100957,2025-05-27,CUST1007,Monitor,Electronics,East,1,210,0.15,178.5,55.35,UPI,8,Shipped
+ORD100958,2025-08-20,CUST1214,Headphones,Electronics,South,5,90,0.1,405.0,112.65,UPI,10,Completed
+ORD100959,2025-12-21,CUST1295,Desk Lamp,Furniture,East,1,40,0.1,36.0,1.97,Cash on Delivery,8,Completed
+ORD100960,2025-05-31,CUST1085,USB-C Hub,Accessories,South,3,45,0.1,121.5,17.65,Cash on Delivery,4,Completed
+ORD100961,2025-02-26,CUST1062,Desk Lamp,Furniture,West,5,40,0.1,180.0,8.21,Net Banking,6,Completed
+ORD100962,2025-05-30,CUST1094,Mechanical Keyboard,Accessories,West,4,75,0.2,240.0,11.64,UPI,5,Pending
+ORD100963,2025-11-03,CUST1065,Monitor,Electronics,North,1,210,0.0,210.0,51.32,UPI,1,Completed
+ORD100964,2025-03-21,CUST1068,Smartphone Case,Mobile,East,5,18,0.05,85.5,4.16,Credit Card,6,Cancelled
+ORD100965,2025-12-13,CUST1149,Smartphone Case,Mobile,Central,1,18,0.0,18.0,0.33,UPI,5,Pending
+ORD100966,2025-08-03,CUST1236,Smartphone Case,Mobile,Central,4,18,0.2,57.6,-5.88,Cash on Delivery,4,Shipped
+ORD100967,2025-08-08,CUST1214,USB-C Hub,Accessories,West,4,45,0.05,171.0,28.25,UPI,2,Completed
+ORD100968,2025-04-26,CUST1288,Desk Lamp,Furniture,West,2,40,0.1,72.0,2.52,Debit Card,6,Completed
+ORD100969,2025-12-02,CUST1108,Smartphone Case,Mobile,North,3,18,0.15,45.9,6.94,Net Banking,6,Completed
+ORD100970,2025-01-14,CUST1148,Smartphone Case,Mobile,Central,1,18,0.2,14.4,0.32,Net Banking,2,Completed
+ORD100971,2025-04-20,CUST1115,Laptop Stand,Accessories,West,5,35,0.0,175.0,39.73,Debit Card,7,Pending
+ORD100972,2025-06-02,CUST1013,Office Chair,Furniture,Central,2,180,0.15,306.0,30.12,Net Banking,2,Completed
+ORD100973,2025-06-24,CUST1117,Smartphone Case,Mobile,Central,2,18,0.15,30.6,-0.42,UPI,2,Shipped
+ORD100974,2025-06-23,CUST1079,Office Chair,Furniture,South,3,180,0.0,540.0,68.17,Credit Card,5,Completed
+ORD100975,2025-02-23,CUST1144,Mechanical Keyboard,Accessories,North,4,75,0.15,255.0,22.28,UPI,4,Completed
+ORD100976,2025-03-24,CUST1048,Office Chair,Furniture,West,3,180,0.05,513.0,65.37,Net Banking,10,Shipped
+ORD100977,2025-02-04,CUST1223,Wireless Mouse,Accessories,East,3,22,0.1,59.4,3.23,Net Banking,1,Pending
+ORD100978,2025-07-28,CUST1253,Monitor,Electronics,North,3,210,0.1,567.0,64.28,UPI,4,Pending
+ORD100979,2025-05-09,CUST1289,Headphones,Electronics,South,5,90,0.05,427.5,74.75,UPI,8,Completed
+ORD100980,2025-07-26,CUST1026,Monitor,Electronics,Central,2,210,0.0,420.0,95.08,Credit Card,3,Completed
+ORD100981,2025-08-04,CUST1036,Headphones,Electronics,South,5,90,0.0,450.0,32.27,UPI,10,Completed
+ORD100982,2025-09-14,CUST1290,Mechanical Keyboard,Accessories,South,4,75,0.0,300.0,49.59,Cash on Delivery,8,Pending
+ORD100983,2025-07-19,CUST1255,Headphones,Electronics,West,5,90,0.1,405.0,88.83,UPI,10,Completed
+ORD100984,2025-08-25,CUST1177,Headphones,Electronics,West,5,90,0.05,427.5,44.75,Cash on Delivery,10,Shipped
+ORD100985,2025-08-03,CUST1097,Headphones,Electronics,South,4,90,0.05,342.0,57.03,Credit Card,2,Shipped
+ORD100986,2025-08-27,CUST1156,Mechanical Keyboard,Accessories,Central,2,75,0.1,135.0,6.2,Credit Card,5,Pending
+ORD100987,2025-08-14,CUST1161,USB-C Hub,Accessories,East,4,45,0.1,162.0,21.16,UPI,8,Completed
+ORD100988,2025-04-26,CUST1255,Mechanical Keyboard,Accessories,North,4,75,0.1,270.0,43.36,Net Banking,1,Completed
+ORD100989,2025-03-31,CUST1159,Monitor,Electronics,South,2,210,0.2,336.0,99.59,Debit Card,5,Completed
+ORD100990,2025-10-15,CUST1009,Webcam,Electronics,Central,4,65,0.05,247.0,69.66,Credit Card,7,Completed
+ORD100991,2025-05-06,CUST1210,USB-C Hub,Accessories,North,2,45,0.15,76.5,19.24,Credit Card,8,Completed
+ORD100992,2025-07-20,CUST1234,Monitor,Electronics,North,3,210,0.0,630.0,106.19,Net Banking,5,Completed
+ORD100993,2025-03-13,CUST1090,Mechanical Keyboard,Accessories,West,4,75,0.1,270.0,24.87,Cash on Delivery,9,Completed
+ORD100994,2025-06-07,CUST1035,Mechanical Keyboard,Accessories,East,1,75,0.2,60.0,6.76,Cash on Delivery,7,Completed
+ORD100995,2025-07-13,CUST1043,Headphones,Electronics,South,2,90,0.15,153.0,13.93,Debit Card,1,Completed
+ORD100996,2025-08-17,CUST1253,Desk Lamp,Furniture,East,4,40,0.1,144.0,-3.58,Cash on Delivery,3,Completed
+ORD100997,2025-07-12,CUST1135,Mechanical Keyboard,Accessories,North,3,75,0.1,202.5,15.51,UPI,10,Cancelled
+ORD100998,2025-05-12,CUST1159,Desk Lamp,Furniture,South,5,40,0.05,190.0,28.98,Debit Card,1,Completed
+ORD100999,2025-12-18,CUST1289,Webcam,Electronics,South,1,65,0.1,58.5,6.44,Credit Card,2,Cancelled
+ORD101000,2025-07-07,CUST1019,Wireless Mouse,Accessories,East,4,22,0.15,74.8,0.54,Credit Card,4,Completed
+ORD101001,2025-10-23,CUST1062,USB-C Hub,Accessories,West,5,45,0.2,180.0,40.19,Net Banking,10,Completed
+ORD101002,2025-09-26,CUST1250,Laptop Stand,Accessories,Central,5,35,0.1,157.5,22.66,Net Banking,8,Completed
+ORD101003,2025-07-23,CUST1163,Laptop Stand,Accessories,North,1,35,0.0,35.0,9.27,Credit Card,2,Completed
+ORD101004,2025-11-20,CUST1009,USB-C Hub,Accessories,South,5,45,0.1,202.5,18.73,Credit Card,4,Cancelled
+ORD101005,2025-02-16,CUST1211,Monitor,Electronics,South,2,210,0.0,420.0,86.51,Cash on Delivery,10,Completed
+ORD101006,2025-12-03,CUST1042,Office Chair,Furniture,East,2,180,0.05,342.0,42.32,Net Banking,3,Pending
+ORD101007,2025-11-07,CUST1235,Wireless Mouse,Accessories,East,2,22,0.05,41.8,7.9,Debit Card,6,Shipped
+ORD101008,2025-07-03,CUST1240,Desk Lamp,Furniture,Central,4,40,0.1,144.0,1.91,UPI,5,Completed
+ORD101009,2025-09-25,CUST1248,Mechanical Keyboard,Accessories,Central,4,75,0.0,300.0,34.47,UPI,8,Completed
+ORD101010,2025-07-09,CUST1140,Wireless Mouse,Accessories,West,3,22,0.0,66.0,14.1,Cash on Delivery,8,Cancelled
+ORD101011,2025-04-09,CUST1081,Headphones,Electronics,North,1,90,0.0,90.0,11.09,Debit Card,9,Pending
+ORD101012,2025-10-19,CUST1265,Office Chair,Furniture,North,5,180,0.15,765.0,87.94,Debit Card,2,Completed
+ORD101013,2025-03-31,CUST1168,Headphones,Electronics,Central,2,90,0.1,162.0,41.41,Debit Card,5,Cancelled
+ORD101014,2025-04-25,CUST1191,Wireless Mouse,Accessories,Central,1,22,0.0,22.0,-1.66,Credit Card,7,Completed
+ORD101015,2025-07-09,CUST1041,Wireless Mouse,Accessories,South,3,22,0.0,66.0,9.38,Credit Card,5,Completed
+ORD101016,2025-11-02,CUST1188,USB-C Hub,Accessories,North,3,45,0.1,121.5,20.32,Cash on Delivery,7,Pending
+ORD101017,2025-05-21,CUST1175,Monitor,Electronics,West,4,210,0.05,798.0,105.83,UPI,7,Cancelled
+ORD101018,2025-06-30,CUST1088,Smartphone Case,Mobile,East,5,18,0.1,81.0,14.52,Debit Card,4,Completed
+ORD101019,2025-01-16,CUST1231,Mechanical Keyboard,Accessories,Central,1,75,0.05,71.25,6.03,Debit Card,2,Shipped
+ORD101020,2025-02-12,CUST1041,Wireless Mouse,Accessories,East,2,22,0.2,35.2,7.93,Cash on Delivery,10,Completed
+ORD101021,2025-01-21,CUST1216,Smartphone Case,Mobile,West,3,18,0.05,51.3,5.61,UPI,9,Pending
+ORD101022,2025-01-27,CUST1289,Wireless Mouse,Accessories,West,4,22,0.1,79.2,1.04,Debit Card,9,Completed
+ORD101023,2025-11-14,CUST1171,Laptop Stand,Accessories,North,4,35,0.0,140.0,20.2,UPI,3,Completed
+ORD101024,2025-11-04,CUST1032,Monitor,Electronics,North,2,210,0.2,336.0,98.82,UPI,4,Completed
+ORD101025,2025-10-27,CUST1166,Monitor,Electronics,West,4,210,0.2,672.0,174.53,Credit Card,4,Completed
+ORD101026,2025-01-21,CUST1159,Headphones,Electronics,North,5,90,0.1,405.0,115.59,UPI,1,Shipped
+ORD101027,2025-01-29,CUST1166,Desk Lamp,Furniture,South,3,40,0.1,108.0,23.89,Net Banking,2,Pending
+ORD101028,2025-04-13,CUST1082,Smartphone Case,Mobile,West,5,18,0.05,85.5,20.35,Net Banking,4,Completed
+ORD101029,2025-07-26,CUST1188,Mechanical Keyboard,Accessories,South,4,75,0.15,255.0,46.69,UPI,10,Pending
+ORD101030,2025-05-02,CUST1080,Smartphone Case,Mobile,North,2,18,0.1,32.4,7.74,Cash on Delivery,3,Completed
+ORD101031,2025-06-27,CUST1168,Headphones,Electronics,North,2,90,0.05,171.0,28.24,Credit Card,6,Cancelled
+ORD101032,2025-03-05,CUST1179,Laptop Stand,Accessories,East,4,35,0.1,126.0,6.17,Debit Card,6,Completed
+ORD101033,2025-09-24,CUST1194,Smartphone Case,Mobile,West,2,18,0.1,32.4,4.32,Cash on Delivery,4,Shipped
+ORD101034,2025-04-25,CUST1240,Wireless Mouse,Accessories,West,2,22,0.15,37.4,4.65,Credit Card,10,Completed
+ORD101035,2025-01-25,CUST1265,Webcam,Electronics,Central,2,65,0.1,117.0,7.14,UPI,1,Cancelled
+ORD101036,2025-09-29,CUST1234,Office Chair,Furniture,West,4,180,0.1,648.0,102.89,UPI,9,Completed
+ORD101037,2025-11-26,CUST1239,Mechanical Keyboard,Accessories,West,2,75,0.1,135.0,19.48,Credit Card,8,Completed
+ORD101038,2025-01-06,CUST1261,Mechanical Keyboard,Accessories,South,4,75,0.05,285.0,79.0,Net Banking,4,Cancelled
+ORD101039,2025-06-09,CUST1073,Monitor,Electronics,South,5,210,0.05,997.5,161.74,Credit Card,8,Cancelled
+ORD101040,2025-10-29,CUST1088,Desk Lamp,Furniture,South,5,40,0.0,200.0,44.14,Credit Card,5,Pending
+ORD101041,2025-09-15,CUST1160,Mechanical Keyboard,Accessories,North,5,75,0.15,318.75,56.57,UPI,10,Completed
+ORD101042,2025-11-09,CUST1140,Headphones,Electronics,Central,1,90,0.05,85.5,21.13,Net Banking,1,Completed
+ORD101043,2025-06-01,CUST1211,Monitor,Electronics,South,3,210,0.05,598.5,63.64,UPI,1,Shipped
+ORD101044,2025-05-16,CUST1003,Wireless Mouse,Accessories,East,2,22,0.05,41.8,10.53,Debit Card,6,Pending
+ORD101045,2025-09-16,CUST1042,Office Chair,Furniture,South,5,180,0.05,855.0,157.8,Debit Card,10,Completed
+ORD101046,2025-02-26,CUST1225,Desk Lamp,Furniture,North,4,40,0.1,144.0,10.05,UPI,1,Completed
+ORD101047,2025-03-29,CUST1247,Webcam,Electronics,Central,2,65,0.05,123.5,12.96,UPI,8,Completed
+ORD101048,2025-08-08,CUST1091,Wireless Mouse,Accessories,South,3,22,0.0,66.0,7.06,Credit Card,10,Completed
+ORD101049,2025-09-01,CUST1094,Wireless Mouse,Accessories,North,4,22,0.15,74.8,10.92,UPI,5,Shipped
+ORD101050,2025-02-13,CUST1169,Monitor,Electronics,South,3,210,0.05,598.5,141.08,Debit Card,9,Completed
+ORD101051,2025-07-05,CUST1144,Webcam,Electronics,North,3,65,0.05,185.25,51.29,Cash on Delivery,8,Shipped
+ORD101052,2025-05-14,CUST1051,Webcam,Electronics,Central,1,65,0.05,61.75,14.61,UPI,3,Completed
+ORD101053,2025-07-03,CUST1151,Mechanical Keyboard,Accessories,North,3,75,0.15,191.25,37.32,Credit Card,9,Completed
+ORD101054,2025-12-16,CUST1246,Webcam,Electronics,South,2,65,0.05,123.5,16.74,UPI,7,Pending
+ORD101055,2025-01-28,CUST1219,Mechanical Keyboard,Accessories,South,5,75,0.15,318.75,73.82,UPI,1,Pending
+ORD101056,2025-12-30,CUST1246,Headphones,Electronics,North,5,90,0.2,360.0,84.69,Debit Card,6,Cancelled
+ORD101057,2025-06-14,CUST1194,Office Chair,Furniture,North,4,180,0.1,648.0,87.78,Cash on Delivery,7,Pending
+ORD101058,2025-10-09,CUST1264,Headphones,Electronics,East,1,90,0.05,85.5,24.71,Debit Card,9,Completed
+ORD101059,2025-06-04,CUST1075,Laptop Stand,Accessories,South,5,35,0.1,157.5,19.0,UPI,8,Shipped
+ORD101060,2025-04-24,CUST1014,Smartphone Case,Mobile,North,2,18,0.1,32.4,7.26,Credit Card,5,Completed
+ORD101061,2025-10-09,CUST1035,Laptop Stand,Accessories,South,3,35,0.05,99.75,23.32,Credit Card,3,Cancelled
+ORD101062,2025-09-08,CUST1298,Smartphone Case,Mobile,South,5,18,0.1,81.0,8.46,Net Banking,2,Shipped
+ORD101063,2025-02-22,CUST1193,Laptop Stand,Accessories,East,5,35,0.05,166.25,16.65,Debit Card,1,Pending
+ORD101064,2025-09-15,CUST1075,Webcam,Electronics,Central,1,65,0.0,65.0,10.8,Net Banking,7,Completed
+ORD101065,2025-10-02,CUST1257,Wireless Mouse,Accessories,South,2,22,0.05,41.8,1.59,UPI,10,Completed
+ORD101066,2025-05-22,CUST1093,Laptop Stand,Accessories,West,4,35,0.0,140.0,36.92,Credit Card,1,Completed
+ORD101067,2025-12-04,CUST1180,Headphones,Electronics,West,3,90,0.05,256.5,33.9,Debit Card,8,Completed
+ORD101068,2025-08-22,CUST1075,Office Chair,Furniture,North,2,180,0.1,324.0,73.02,Credit Card,6,Cancelled
+ORD101069,2025-05-02,CUST1029,Wireless Mouse,Accessories,East,3,22,0.2,52.8,4.75,Debit Card,2,Shipped
+ORD101070,2025-01-04,CUST1081,Smartphone Case,Mobile,East,5,18,0.0,90.0,1.3,Credit Card,3,Pending
+ORD101071,2025-09-04,CUST1069,USB-C Hub,Accessories,East,2,45,0.1,81.0,6.47,Net Banking,3,Completed
+ORD101072,2025-03-18,CUST1166,USB-C Hub,Accessories,North,4,45,0.1,162.0,24.12,UPI,7,Cancelled
+ORD101073,2025-10-04,CUST1007,Mechanical Keyboard,Accessories,East,4,75,0.0,300.0,41.01,Net Banking,3,Cancelled
+ORD101074,2025-07-11,CUST1072,Monitor,Electronics,North,5,210,0.05,997.5,104.46,Credit Card,9,Completed
+ORD101075,2025-06-20,CUST1171,Wireless Mouse,Accessories,Central,2,22,0.0,44.0,0.77,Credit Card,4,Cancelled
+ORD101076,2025-03-01,CUST1119,Monitor,Electronics,East,2,210,0.05,399.0,64.8,Credit Card,2,Completed
+ORD101077,2025-09-17,CUST1191,Mechanical Keyboard,Accessories,North,3,75,0.05,213.75,43.48,UPI,1,Shipped
+ORD101078,2025-03-02,CUST1197,Laptop Stand,Accessories,East,3,35,0.05,99.75,13.08,Net Banking,5,Completed
+ORD101079,2025-06-02,CUST1290,USB-C Hub,Accessories,Central,3,45,0.1,121.5,12.14,Net Banking,5,Completed
+ORD101080,2025-11-02,CUST1251,Headphones,Electronics,West,4,90,0.0,360.0,56.04,Net Banking,8,Cancelled
+ORD101081,2025-12-02,CUST1069,Office Chair,Furniture,South,4,180,0.0,720.0,106.12,Net Banking,5,Shipped
+ORD101082,2025-12-28,CUST1208,USB-C Hub,Accessories,Central,2,45,0.0,90.0,10.7,Debit Card,2,Completed
+ORD101083,2025-12-16,CUST1189,USB-C Hub,Accessories,North,4,45,0.1,162.0,25.54,Credit Card,3,Completed
+ORD101084,2025-07-22,CUST1179,Office Chair,Furniture,South,2,180,0.05,342.0,49.75,Cash on Delivery,6,Completed
+ORD101085,2025-03-15,CUST1240,Headphones,Electronics,North,3,90,0.1,243.0,48.54,UPI,4,Completed
+ORD101086,2025-11-03,CUST1045,Desk Lamp,Furniture,Central,1,40,0.05,38.0,11.01,Cash on Delivery,7,Completed
+ORD101087,2025-10-20,CUST1113,Smartphone Case,Mobile,West,2,18,0.0,36.0,1.26,Credit Card,10,Completed
+ORD101088,2025-12-28,CUST1245,Desk Lamp,Furniture,East,5,40,0.2,160.0,25.4,Debit Card,4,Pending
+ORD101089,2025-08-26,CUST1268,Smartphone Case,Mobile,West,3,18,0.0,54.0,1.58,Credit Card,6,Cancelled
+ORD101090,2025-02-21,CUST1012,Monitor,Electronics,South,4,210,0.0,840.0,93.38,Credit Card,9,Pending
+ORD101091,2025-07-03,CUST1142,USB-C Hub,Accessories,North,1,45,0.0,45.0,3.36,UPI,3,Completed
+ORD101092,2025-06-13,CUST1080,USB-C Hub,Accessories,Central,4,45,0.2,144.0,30.78,Credit Card,6,Shipped
+ORD101093,2025-11-04,CUST1051,Mechanical Keyboard,Accessories,Central,2,75,0.1,135.0,30.98,Credit Card,4,Cancelled
+ORD101094,2025-05-24,CUST1018,Office Chair,Furniture,North,4,180,0.1,648.0,70.15,UPI,7,Completed
+ORD101095,2025-04-30,CUST1162,Office Chair,Furniture,North,5,180,0.2,720.0,80.24,UPI,8,Cancelled
+ORD101096,2025-01-30,CUST1201,Desk Lamp,Furniture,East,3,40,0.0,120.0,11.91,Credit Card,2,Pending
+ORD101097,2025-11-01,CUST1160,Wireless Mouse,Accessories,North,1,22,0.2,17.6,-0.06,UPI,2,Completed
+ORD101098,2025-10-03,CUST1111,Monitor,Electronics,West,3,210,0.05,598.5,134.3,Cash on Delivery,1,Completed
+ORD101099,2025-01-16,CUST1232,Mechanical Keyboard,Accessories,Central,1,75,0.1,67.5,15.48,UPI,1,Completed
+ORD101100,2025-06-08,CUST1196,Desk Lamp,Furniture,South,3,40,0.05,114.0,32.78,Credit Card,1,Completed
+ORD101101,2025-06-25,CUST1273,Mechanical Keyboard,Accessories,South,1,75,0.05,71.25,8.53,UPI,8,Completed
+ORD101102,2025-06-21,CUST1105,Wireless Mouse,Accessories,Central,4,22,0.2,70.4,6.95,Credit Card,10,Completed
+ORD101103,2025-12-02,CUST1072,Webcam,Electronics,South,2,65,0.0,130.0,22.06,Credit Card,5,Completed
+ORD101104,2025-02-24,CUST1137,Desk Lamp,Furniture,South,2,40,0.2,64.0,7.13,Debit Card,9,Completed
+ORD101105,2025-04-22,CUST1153,Smartphone Case,Mobile,North,1,18,0.05,17.1,5.04,Credit Card,8,Completed
+ORD101106,2025-03-08,CUST1138,Laptop Stand,Accessories,Central,5,35,0.1,157.5,3.56,Credit Card,9,Completed
+ORD101107,2025-03-31,CUST1250,USB-C Hub,Accessories,Central,5,45,0.2,180.0,25.18,UPI,8,Completed
+ORD101108,2025-11-28,CUST1014,Wireless Mouse,Accessories,North,5,22,0.0,110.0,22.12,Credit Card,2,Cancelled
+ORD101109,2025-12-10,CUST1159,USB-C Hub,Accessories,Central,1,45,0.2,36.0,10.05,Credit Card,6,Shipped
+ORD101110,2025-01-17,CUST1130,Webcam,Electronics,North,2,65,0.1,117.0,21.67,Debit Card,6,Completed
+ORD101111,2025-08-19,CUST1064,Mechanical Keyboard,Accessories,North,5,75,0.1,337.5,44.54,Credit Card,7,Pending
+ORD101112,2025-03-26,CUST1193,Laptop Stand,Accessories,South,3,35,0.0,105.0,26.25,Debit Card,8,Completed
+ORD101113,2025-03-12,CUST1241,Webcam,Electronics,East,1,65,0.1,58.5,14.11,Credit Card,2,Completed
+ORD101114,2025-04-17,CUST1164,Laptop Stand,Accessories,Central,1,35,0.1,31.5,3.75,UPI,7,Shipped
+ORD101115,2025-03-12,CUST1026,Mechanical Keyboard,Accessories,West,2,75,0.1,135.0,32.92,UPI,9,Pending
+ORD101116,2025-06-28,CUST1023,Laptop Stand,Accessories,North,5,35,0.0,175.0,17.33,UPI,2,Shipped
+ORD101117,2025-12-30,CUST1127,Laptop Stand,Accessories,East,1,35,0.05,33.25,7.2,Credit Card,5,Completed
+ORD101118,2025-08-03,CUST1201,Monitor,Electronics,Central,5,210,0.15,892.5,238.36,Cash on Delivery,9,Completed
+ORD101119,2025-09-21,CUST1095,Desk Lamp,Furniture,West,4,40,0.0,160.0,18.5,Debit Card,1,Shipped
+ORD101120,2025-06-30,CUST1093,Office Chair,Furniture,South,5,180,0.1,810.0,152.24,Credit Card,2,Shipped
+ORD101121,2025-01-06,CUST1259,Laptop Stand,Accessories,North,5,35,0.2,140.0,41.43,UPI,9,Completed
+ORD101122,2025-01-31,CUST1005,Laptop Stand,Accessories,East,2,35,0.0,70.0,13.94,Cash on Delivery,2,Completed
+ORD101123,2025-04-09,CUST1024,USB-C Hub,Accessories,East,5,45,0.0,225.0,48.62,UPI,8,Cancelled
+ORD101124,2025-03-30,CUST1047,Headphones,Electronics,South,1,90,0.1,81.0,13.8,Credit Card,10,Completed
+ORD101125,2025-11-03,CUST1296,Office Chair,Furniture,North,2,180,0.0,360.0,113.74,Cash on Delivery,5,Completed
+ORD101126,2025-11-04,CUST1150,Desk Lamp,Furniture,North,2,40,0.1,72.0,7.23,Credit Card,5,Shipped
+ORD101127,2025-11-08,CUST1048,USB-C Hub,Accessories,East,1,45,0.1,40.5,5.87,UPI,5,Completed
+ORD101128,2025-08-21,CUST1094,Wireless Mouse,Accessories,Central,1,22,0.1,19.8,0.18,UPI,4,Completed
+ORD101129,2025-07-23,CUST1291,Laptop Stand,Accessories,East,1,35,0.05,33.25,7.28,Debit Card,4,Shipped
+ORD101130,2025-08-25,CUST1209,Wireless Mouse,Accessories,East,1,22,0.1,19.8,4.53,UPI,6,Completed
+ORD101131,2025-05-29,CUST1068,Laptop Stand,Accessories,Central,2,35,0.1,63.0,9.97,Debit Card,9,Completed
+ORD101132,2025-09-02,CUST1073,Desk Lamp,Furniture,West,1,40,0.05,38.0,5.79,Credit Card,10,Completed
+ORD101133,2025-10-17,CUST1023,Mechanical Keyboard,Accessories,West,1,75,0.1,67.5,11.34,UPI,9,Cancelled
+ORD101134,2025-10-06,CUST1232,Desk Lamp,Furniture,East,5,40,0.15,170.0,31.2,UPI,2,Completed
+ORD101135,2025-08-13,CUST1042,Webcam,Electronics,West,1,65,0.1,58.5,10.4,Cash on Delivery,4,Completed
+ORD101136,2025-01-22,CUST1086,Webcam,Electronics,East,1,65,0.1,58.5,1.86,Credit Card,8,Completed
+ORD101137,2025-09-22,CUST1105,Monitor,Electronics,West,1,210,0.05,199.5,37.27,Debit Card,6,Pending
+ORD101138,2025-05-14,CUST1187,Desk Lamp,Furniture,West,1,40,0.0,40.0,8.75,Credit Card,4,Cancelled
+ORD101139,2025-09-29,CUST1182,Laptop Stand,Accessories,West,3,35,0.05,99.75,15.01,UPI,4,Pending
+ORD101140,2025-07-16,CUST1240,Laptop Stand,Accessories,Central,5,35,0.0,175.0,41.88,Credit Card,2,Completed
+ORD101141,2025-11-18,CUST1090,Monitor,Electronics,South,4,210,0.2,672.0,111.3,Credit Card,4,Completed
+ORD101142,2025-05-04,CUST1116,USB-C Hub,Accessories,West,3,45,0.05,128.25,26.03,Credit Card,5,Cancelled
+ORD101143,2025-12-06,CUST1117,Webcam,Electronics,North,1,65,0.15,55.25,1.39,Cash on Delivery,5,Pending
+ORD101144,2025-11-05,CUST1015,Office Chair,Furniture,East,4,180,0.0,720.0,114.46,Net Banking,6,Completed
+ORD101145,2025-05-01,CUST1222,Webcam,Electronics,Central,1,65,0.05,61.75,10.78,Cash on Delivery,3,Cancelled
+ORD101146,2025-06-26,CUST1161,Mechanical Keyboard,Accessories,West,4,75,0.05,285.0,39.15,Credit Card,3,Pending
+ORD101147,2025-07-13,CUST1143,USB-C Hub,Accessories,South,3,45,0.05,128.25,2.54,Credit Card,9,Pending
+ORD101148,2025-10-08,CUST1299,Office Chair,Furniture,West,5,180,0.15,765.0,172.98,Debit Card,5,Completed
+ORD101149,2025-09-09,CUST1054,Mechanical Keyboard,Accessories,South,2,75,0.2,120.0,16.8,UPI,3,Completed
+ORD101150,2025-11-07,CUST1291,Webcam,Electronics,East,4,65,0.15,221.0,36.47,Cash on Delivery,7,Completed
+ORD101151,2025-05-16,CUST1205,Webcam,Electronics,South,3,65,0.0,195.0,16.34,Cash on Delivery,6,Pending
+ORD101152,2025-07-04,CUST1067,Office Chair,Furniture,West,3,180,0.15,459.0,86.93,UPI,6,Completed
+ORD101153,2025-06-07,CUST1204,Office Chair,Furniture,North,5,180,0.0,900.0,153.46,Net Banking,3,Completed
+ORD101154,2025-11-28,CUST1227,Monitor,Electronics,East,4,210,0.2,672.0,119.79,Cash on Delivery,8,Completed
+ORD101155,2025-04-22,CUST1109,USB-C Hub,Accessories,Central,3,45,0.1,121.5,15.81,Credit Card,2,Completed
+ORD101156,2025-08-03,CUST1104,USB-C Hub,Accessories,West,3,45,0.05,128.25,-0.69,Net Banking,9,Cancelled
+ORD101157,2025-02-13,CUST1251,Monitor,Electronics,East,4,210,0.0,840.0,240.66,UPI,5,Pending
+ORD101158,2025-11-07,CUST1049,Mechanical Keyboard,Accessories,Central,2,75,0.0,150.0,11.23,UPI,5,Pending
+ORD101159,2025-05-21,CUST1005,Headphones,Electronics,North,1,90,0.05,85.5,14.64,UPI,4,Completed
+ORD101160,2025-05-05,CUST1200,Mechanical Keyboard,Accessories,Central,3,75,0.2,180.0,13.53,Credit Card,5,Shipped
+ORD101161,2025-08-01,CUST1272,Headphones,Electronics,South,1,90,0.15,76.5,13.16,Credit Card,7,Pending
+ORD101162,2025-07-02,CUST1151,Office Chair,Furniture,Central,1,180,0.2,144.0,20.9,Net Banking,5,Completed
+ORD101163,2025-11-06,CUST1041,Smartphone Case,Mobile,Central,3,18,0.0,54.0,13.76,UPI,2,Pending
+ORD101164,2025-07-13,CUST1162,Wireless Mouse,Accessories,West,4,22,0.1,79.2,-0.53,UPI,6,Completed
+ORD101165,2025-07-08,CUST1076,Office Chair,Furniture,West,4,180,0.05,684.0,145.43,Debit Card,3,Completed
+ORD101166,2025-02-08,CUST1249,Laptop Stand,Accessories,West,2,35,0.1,63.0,1.19,UPI,2,Shipped
+ORD101167,2025-01-09,CUST1184,USB-C Hub,Accessories,South,3,45,0.05,128.25,5.72,Debit Card,9,Cancelled
+ORD101168,2025-05-26,CUST1101,Wireless Mouse,Accessories,North,1,22,0.05,20.9,0.56,Credit Card,4,Pending
+ORD101169,2025-12-31,CUST1188,Wireless Mouse,Accessories,South,4,22,0.1,79.2,3.28,Net Banking,6,Completed
+ORD101170,2025-12-01,CUST1201,Wireless Mouse,Accessories,East,2,22,0.0,44.0,5.85,Debit Card,2,Shipped
+ORD101171,2025-08-18,CUST1204,Laptop Stand,Accessories,West,4,35,0.1,126.0,36.85,UPI,4,Cancelled
+ORD101172,2025-08-19,CUST1110,Desk Lamp,Furniture,South,5,40,0.1,180.0,24.99,UPI,4,Pending
+ORD101173,2025-05-23,CUST1172,Laptop Stand,Accessories,East,4,35,0.0,140.0,44.17,UPI,2,Completed
+ORD101174,2025-03-06,CUST1013,USB-C Hub,Accessories,North,2,45,0.2,72.0,6.08,Net Banking,10,Completed
+ORD101175,2025-01-04,CUST1122,Headphones,Electronics,North,5,90,0.1,405.0,96.09,Debit Card,4,Cancelled
+ORD101176,2025-05-04,CUST1114,Smartphone Case,Mobile,Central,4,18,0.15,61.2,2.15,Credit Card,6,Cancelled
+ORD101177,2025-04-26,CUST1161,Desk Lamp,Furniture,Central,4,40,0.1,144.0,28.57,UPI,6,Completed
+ORD101178,2025-03-11,CUST1286,Wireless Mouse,Accessories,Central,5,22,0.1,99.0,16.91,Cash on Delivery,5,Completed
+ORD101179,2025-04-05,CUST1287,Smartphone Case,Mobile,South,5,18,0.1,81.0,14.87,UPI,6,Completed
+ORD101180,2025-01-10,CUST1145,Headphones,Electronics,East,1,90,0.15,76.5,19.31,Debit Card,6,Completed
+ORD101181,2025-08-10,CUST1194,Wireless Mouse,Accessories,West,5,22,0.1,99.0,20.78,Debit Card,1,Completed
+ORD101182,2025-12-05,CUST1033,Monitor,Electronics,South,4,210,0.05,798.0,77.09,UPI,7,Cancelled
+ORD101183,2025-09-10,CUST1145,Smartphone Case,Mobile,West,2,18,0.0,36.0,2.66,Credit Card,2,Cancelled
+ORD101184,2025-06-13,CUST1207,USB-C Hub,Accessories,West,2,45,0.1,81.0,14.38,UPI,5,Completed
+ORD101185,2025-06-03,CUST1205,Wireless Mouse,Accessories,East,4,22,0.0,88.0,22.64,Credit Card,4,Pending
+ORD101186,2025-04-23,CUST1290,Desk Lamp,Furniture,East,2,40,0.05,76.0,14.56,Net Banking,5,Completed
+ORD101187,2025-02-21,CUST1140,Smartphone Case,Mobile,South,3,18,0.0,54.0,4.64,Debit Card,1,Pending
+ORD101188,2025-08-07,CUST1273,Smartphone Case,Mobile,Central,4,18,0.1,64.8,4.21,Cash on Delivery,8,Completed
+ORD101189,2025-07-26,CUST1294,Smartphone Case,Mobile,Central,4,18,0.0,72.0,-0.33,Credit Card,5,Completed
+ORD101190,2025-01-03,CUST1172,Desk Lamp,Furniture,Central,5,40,0.1,180.0,17.1,UPI,1,Completed
+ORD101191,2025-06-01,CUST1028,Monitor,Electronics,West,1,210,0.15,178.5,15.49,Debit Card,1,Pending
+ORD101192,2025-04-12,CUST1113,Wireless Mouse,Accessories,South,2,22,0.15,37.4,6.39,Credit Card,6,Cancelled
+ORD101193,2025-03-04,CUST1230,Headphones,Electronics,West,5,90,0.05,427.5,71.3,UPI,7,Completed
+ORD101194,2025-09-14,CUST1175,Mechanical Keyboard,Accessories,South,3,75,0.1,202.5,51.26,Credit Card,6,Pending
+ORD101195,2025-07-11,CUST1281,Monitor,Electronics,Central,2,210,0.1,378.0,52.15,Debit Card,8,Completed
+ORD101196,2025-08-20,CUST1245,Headphones,Electronics,South,2,90,0.1,162.0,29.85,Debit Card,8,Completed
+ORD101197,2025-09-18,CUST1019,Smartphone Case,Mobile,East,2,18,0.1,32.4,1.01,UPI,9,Completed
+ORD101198,2025-12-25,CUST1259,Mechanical Keyboard,Accessories,North,3,75,0.05,213.75,58.57,Cash on Delivery,10,Cancelled
+ORD101199,2025-10-21,CUST1108,Mechanical Keyboard,Accessories,North,2,75,0.2,120.0,9.14,Credit Card,9,Pending
+ORD101200,2025-08-15,CUST1246,Office Chair,Furniture,South,4,180,0.0,720.0,74.63,UPI,8,Shipped
